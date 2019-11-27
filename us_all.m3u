@@ -375,3 +375,49 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/619
 http://23.237.122.154:25461/BUDTV/DFGHJ/620
 #EXTINF:-1,USA BEIN
 http://23.237.122.154:25461/BUDTV/DFGHJ/617
+#EXTINF:-1,group-title="USA",ABC (WPLG) (EST)
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1, group-title="USA",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,group-title="USA",CBS (WFOR) (Opt-1)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1,group-title="USA",CBS (WFOR) (Opt-2)
+http://190.80.3.28/CBS/CBS.isml/index.m3u
+#EXTINF:-1,group-title="USA",Fox News (Updated)
+http://185.140.67.6:8000/play/a06c/index.m3u8
+#EXTINF:-1,group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,group-title="USA",SafeTV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1,group-title="USA PUBLIC",PATV Great Neck
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1,group-title="USA PUBLIC",St. Charles Parish TV
+http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1,group-title="USA PUBLIC",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,group-title="USA GEO",Discovery Velocity (Geo)
+http://195.181.169.148/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="USA GEO",Food Network (Geo)
+http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="USA GEO",TBS (Geo)
+http://195.181.169.148/TBS_Eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="UK",Fight Sports
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
+#EXTINF:-1,group-title="UK",Food Network
+http://95.86.32.7:999/food
+#EXTINF:-1,group-title="UK",Fox Sports
+http://45.58.62.92:8080
+#EXTINF:-1,group-title="UK",Motorsport TV
+http://45.58.62.92:8084
+#EXTINF:-1,group-title="UK",Nat Geo Wild (Asia)
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+#EXTINF:-1,group-title="UK",Reuters
+http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
+#EXTINF:-1,group-title="24/7 ADULT IPTV",FrenchLover TV
+http://91.204.234.3:8000/play/a001/index.m3u8
+#EXTINF:-1,group-title="24/7 ADULT IPTV",Honey TV (New!)
+http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1,group-title="24/7 ADULT IPTV",Midnight TV (New!)
+http://112.148.183.161:9981/stream/channelid/96001658
+#EXTINF:-1,group-title="24/7 ADULT IPTV",Viki TV (New!)
+http://112.148.183.161:9981/stream/channelid/488704961
