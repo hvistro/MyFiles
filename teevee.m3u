@@ -1,1997 +1,1146 @@
 #EXTM3U
-#EXTINF:-1,US: A&E 1080
-http://nitro.ltd:25461/flight/flight12/12213
-#EXTINF:-1,US: A&E 720
-http://nitro.ltd:25461/flight/flight12/41607
-#EXTINF:-1,US: Adult Swim
-http://nitro.ltd:25461/flight/flight12/40887
-#EXTINF:-1,US: AHC HD 1080
-http://nitro.ltd:25461/flight/flight12/19747
-#EXTINF:-1,US: AHC HD 720
-http://nitro.ltd:25461/flight/flight12/22427
-#EXTINF:-1,US: AMC HD
-http://nitro.ltd:25461/flight/flight12/11541
-#EXTINF:-1,US: AMC HD (backup)
-http://nitro.ltd:25461/flight/flight12/41608
-#EXTINF:-1,US: Animal Planet East
-http://nitro.ltd:25461/flight/flight12/41576
-#EXTINF:-1,US: Animal Planet West
-http://nitro.ltd:25461/flight/flight12/41575
-#EXTINF:-1,US: Aspire
-http://nitro.ltd:25461/flight/flight12/41409
-#EXTINF:-1,US: Audience
-http://nitro.ltd:25461/flight/flight12/41408
-#EXTINF:-1,US: AXS TV HD
-http://nitro.ltd:25461/flight/flight12/22936
-#EXTINF:-1,US: BBC America HD
-http://nitro.ltd:25461/flight/flight12/3683
-#EXTINF:-1,US: BET HD
-http://nitro.ltd:25461/flight/flight12/6201
-#EXTINF:-1,US: BET HD East
-http://nitro.ltd:25461/flight/flight12/19733
-#EXTINF:-1,US: BET Her
-http://nitro.ltd:25461/flight/flight12/19688
-#EXTINF:-1,US: Bet Jams
-http://nitro.ltd:25461/flight/flight12/40888
-#EXTINF:-1,US: Bet Soul
-http://nitro.ltd:25461/flight/flight12/40889
-#EXTINF:-1,US: Bounce TV
-http://nitro.ltd:25461/flight/flight12/18516
-#EXTINF:-1,US: Bravo HD
-http://nitro.ltd:25461/flight/flight12/11532
-#EXTINF:-1,US: Bravo  East
-http://nitro.ltd:25461/flight/flight12/42011
-#EXTINF:-1,US: Bravo East(Back Up)
-http://nitro.ltd:25461/flight/flight12/41611
-#EXTINF:-1,US: Buzzr
-http://nitro.ltd:25461/flight/flight12/19685
-#EXTINF:-1,US: CLEO TV
-http://nitro.ltd:25461/flight/flight12/40913
-#EXTINF:-1,US: CMT HD 
-http://nitro.ltd:25461/flight/flight12/19735
-#EXTINF:-1,US: CMT HD (backup)
-http://nitro.ltd:25461/flight/flight12/41610
-#EXTINF:-1,US: Comedy Central 720
-http://nitro.ltd:25461/flight/flight12/11665
-#EXTINF:-1,US: Comedy Central (backup)
-http://nitro.ltd:25461/flight/flight12/41613
-#EXTINF:-1,US: Comedy TV
-http://nitro.ltd:25461/flight/flight12/41407
-#EXTINF:-1,US: COMET
-http://nitro.ltd:25461/flight/flight12/40918
-#EXTINF:-1,US: Cooking Channel HD 1080
-http://nitro.ltd:25461/flight/flight12/3678
-#EXTINF:-1,US: Cozi HD
-http://nitro.ltd:25461/flight/flight12/7372
-#EXTINF:-1,US: CRIME & INVESTIGATION HD 1080
-http://nitro.ltd:25461/flight/flight12/22428
-#EXTINF:-1,US: Crime & Investigation 720
-http://nitro.ltd:25461/flight/flight12/41745
-#EXTINF:-1,US: Destination America HD
-http://nitro.ltd:25461/flight/flight12/19684
-#EXTINF:-1,US: Discovery HD 1080p
-http://nitro.ltd:25461/flight/flight12/41543
-#EXTINF:-1,US: Discovery 720
-http://nitro.ltd:25461/flight/flight12/11563
-#EXTINF:-1,US: Discovery Family HD 1080
-http://nitro.ltd:25461/flight/flight12/3676
-#EXTINF:-1,US: Discovery ID
-http://nitro.ltd:25461/flight/flight12/41565
-#EXTINF:-1,US: Discovery Life HD
-http://nitro.ltd:25461/flight/flight12/41564
-#EXTINF:-1,US: Discovery SCI HD
-http://nitro.ltd:25461/flight/flight12/41563
-#EXTINF:-1,US: DIY HD
-http://nitro.ltd:25461/flight/flight12/3673
-#EXTINF:-1,US: DIY 720
-http://nitro.ltd:25461/flight/flight12/11567
-#EXTINF:-1,US: Dog TV
-http://nitro.ltd:25461/flight/flight12/22944
-#EXTINF:-1,US: E! Entertainment HD 1080
-http://nitro.ltd:25461/flight/flight12/3680
-#EXTINF:-1,US: E! Entertainment 720
-http://nitro.ltd:25461/flight/flight12/11531
-#EXTINF:-1,US: El Rey Network HD 1080
-http://nitro.ltd:25461/flight/flight12/5873
-#EXTINF:-1,US: FM
-http://nitro.ltd:25461/flight/flight12/41406
-#EXTINF:-1,US: Food Network 720
-http://nitro.ltd:25461/flight/flight12/11552
-#EXTINF:-1,US: Freeform HD
-http://nitro.ltd:25461/flight/flight12/41558
-#EXTINF:-1,US: Fuse HD
-http://nitro.ltd:25461/flight/flight12/15161
-#EXTINF:-1,US: Fusion HD
-http://nitro.ltd:25461/flight/flight12/3666
-#EXTINF:-1,US: FX HD
-http://nitro.ltd:25461/flight/flight12/3668
-#EXTINF:-1,US: FX HD (backup)
-http://nitro.ltd:25461/flight/flight12/5888
-#EXTINF:-1,US: FX West
-http://nitro.ltd:25461/flight/flight12/11663
-#EXTINF:-1,US: FX Movie Channel HD
-http://nitro.ltd:25461/flight/flight12/19682
-#EXTINF:-1,US: FXX HD
-http://nitro.ltd:25461/flight/flight12/3667
-#EXTINF:-1,US: FXX (backup)
-http://nitro.ltd:25461/flight/flight12/11668
-#EXTINF:-1,US: FYI HD
-http://nitro.ltd:25461/flight/flight12/5876
-#EXTINF:-1,US: Game Show Network HD 1080p
-http://nitro.ltd:25461/flight/flight12/5877
-#EXTINF:-1,US: Game Show Network HD
-http://nitro.ltd:25461/flight/flight12/19731
-#EXTINF:-1,US: GINXE Sports (Gaming Channel)
-http://nitro.ltd:25461/flight/flight12/22940
-#EXTINF:-1,US: Hallmark HD
-http://nitro.ltd:25461/flight/flight12/41547
-#EXTINF:-1,US: Hallmark (Backup)
-http://nitro.ltd:25461/flight/flight12/41605
-#EXTINF:-1,US: Hallmark Drama HD
-http://nitro.ltd:25461/flight/flight12/19730
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD 1080
-http://nitro.ltd:25461/flight/flight12/5878
-#EXTINF:-1,US: HGTV HD 1080
-http://nitro.ltd:25461/flight/flight12/5881
-#EXTINF:-1,US: HGTV 720
-http://nitro.ltd:25461/flight/flight12/11573
-#EXTINF:-1,US: History Channel 720
-http://nitro.ltd:25461/flight/flight12/11671
-#EXTINF:-1,US: History (Backup)
-http://nitro.ltd:25461/flight/flight12/41612
-#EXTINF:-1,US: H2
-http://nitro.ltd:25461/flight/flight12/19659
-#EXTINF:-1,US: ID HD 1080
-http://nitro.ltd:25461/flight/flight12/41627
-#EXTINF:-1,US: ID 720
-http://nitro.ltd:25461/flight/flight12/11560
-#EXTINF:-1,US: IFC HD
-http://nitro.ltd:25461/flight/flight12/3663
-#EXTINF:-1,US: INSP Network HD
-http://nitro.ltd:25461/flight/flight12/23008
-#EXTINF:-1,US: Justice Central
-http://nitro.ltd:25461/flight/flight12/41404
-#EXTINF:-1,US: LawandCrime
-http://nitro.ltd:25461/flight/flight12/40919
-#EXTINF:-1,US: Lifetime 720
-http://nitro.ltd:25461/flight/flight12/11667
-#EXTINF:-1,US: Lifetime Movies HD 1080
-http://nitro.ltd:25461/flight/flight12/5882
-#EXTINF:-1,US: Lifetime Movies
-http://nitro.ltd:25461/flight/flight12/15179
-#EXTINF:-1,US: Logo
-http://nitro.ltd:25461/flight/flight12/40921
-#EXTINF:-1,US: MAV TV HD
-http://nitro.ltd:25461/flight/flight12/18553
-#EXTINF:-1,US: MGM 1080
-http://nitro.ltd:25461/flight/flight12/41744
-#EXTINF:-1,US: Motor Trend HD
-http://nitro.ltd:25461/flight/flight12/28547
-#EXTINF:-1,US: MTV HD
-http://nitro.ltd:25461/flight/flight12/3662
-#EXTINF:-1,US: MTV 2
-http://nitro.ltd:25461/flight/flight12/19738
-#EXTINF:-1,US: MTV Classic
-http://nitro.ltd:25461/flight/flight12/40922
-#EXTINF:-1,US: MTVU
-http://nitro.ltd:25461/flight/flight12/40923
-#EXTINF:-1,US: MTV LIVE
-http://nitro.ltd:25461/flight/flight12/41746
-#EXTINF:-1,US: Nat Geo HD
-http://nitro.ltd:25461/flight/flight12/11566
-#EXTINF:-1,US: Outdoor Channel HD
-http://nitro.ltd:25461/flight/flight12/18449
-#EXTINF:-1,US: Outside TV HD
-http://nitro.ltd:25461/flight/flight12/18551
-#EXTINF:-1,US: Ovation
-http://nitro.ltd:25461/flight/flight12/41402
-#EXTINF:-1,US: OWN HD
-http://nitro.ltd:25461/flight/flight12/19661
-#EXTINF:-1,US: OWN 720
-http://nitro.ltd:25461/flight/flight12/3660
-#EXTINF:-1,US: Oxygen HD
-http://nitro.ltd:25461/flight/flight12/3672
-#EXTINF:-1,US: Paramount Network HD
-http://nitro.ltd:25461/flight/flight12/19662
-#EXTINF:-1,US: People TV HD
-http://nitro.ltd:25461/flight/flight12/19727
-#EXTINF:-1,US: POP HD
-http://nitro.ltd:25461/flight/flight12/5896
-#EXTINF:-1,US: Pop
-http://nitro.ltd:25461/flight/flight12/40893
-#EXTINF:-1,US: QVC
-http://nitro.ltd:25461/flight/flight12/18527
-#EXTINF:-1,US: QVC 2
-http://nitro.ltd:25461/flight/flight12/41614
-#EXTINF:-1,US: QVC Beauty iQ
-http://nitro.ltd:25461/flight/flight12/36587
-#EXTINF:-1,US: Reelz
-http://nitro.ltd:25461/flight/flight12/41830
-#EXTINF:-1,US: Revolt HD
-http://nitro.ltd:25461/flight/flight12/15163
-#EXTINF:-1,US: Smithsonian Channel HD
-http://nitro.ltd:25461/flight/flight12/22939
-#EXTINF:-1,US: Sundance HD
-http://nitro.ltd:25461/flight/flight12/19676
-#EXTINF:-1,US: SYFY 720
-http://nitro.ltd:25461/flight/flight12/11536
-#EXTINF:-1,US: SHORTS 1080
-http://nitro.ltd:25461/flight/flight12/41747
-#EXTINF:-1,US: Start TV
-http://nitro.ltd:25461/flight/flight12/41754
-#EXTINF:-1,US: Tastemade
-http://nitro.ltd:25461/flight/flight12/41625
-#EXTINF:-1,US: TBS 720
-http://nitro.ltd:25461/flight/flight12/11537
-#EXTINF:-1,US: TCM HD
-http://nitro.ltd:25461/flight/flight12/19670
-#EXTINF:-1,US: TLC HD East
-http://nitro.ltd:25461/flight/flight12/5892
-#EXTINF:-1,US: TNT HD 1080
-http://nitro.ltd:25461/flight/flight12/21762
-#EXTINF:-1,US: TNT 720
-http://nitro.ltd:25461/flight/flight12/11534
-#EXTINF:-1,US: Travel Channel HD
-http://nitro.ltd:25461/flight/flight12/3655
-#EXTINF:-1,US: Travel Channel 720
-http://nitro.ltd:25461/flight/flight12/11565
-#EXTINF:-1,US: TruTV Hd 1080 East
-http://nitro.ltd:25461/flight/flight12/11540
-#EXTINF:-1,US: TVLAND
-http://nitro.ltd:25461/flight/flight12/41554
-#EXTINF:-1,US: TV ONE
-http://nitro.ltd:25461/flight/flight12/18451
-#EXTINF:-1,US: UP
-http://nitro.ltd:25461/flight/flight12/41387
-#EXTINF:-1,US: USA Network HD.
-http://nitro.ltd:25461/flight/flight12/16719
-#EXTINF:-1,US: USA Network 720
-http://nitro.ltd:25461/flight/flight12/18456
-#EXTINF:-1,US: USA Network East
-http://nitro.ltd:25461/flight/flight12/40925
-#EXTINF:-1,US: USA Network (backup)
-http://nitro.ltd:25461/flight/flight12/40914
-#EXTINF:-1,US: VH1 HD
-http://nitro.ltd:25461/flight/flight12/19668
-#EXTINF:-1,US: Viceland HD
-http://nitro.ltd:25461/flight/flight12/3734
-#EXTINF:-1,US: WE HD
-http://nitro.ltd:25461/flight/flight12/3654
-#EXTINF:-1,US:  WE TV
-http://nitro.ltd:25461/flight/flight12/40926
-#EXTINF:-1,US: World Fishing Network HD
-http://nitro.ltd:25461/flight/flight12/18549
-#EXTINF:-1,US: HBO HD 1080
-http://nitro.ltd:25461/flight/flight12/21761
-#EXTINF:-1,US: HBO HD (backup)
-http://nitro.ltd:25461/flight/flight12/19658
-#EXTINF:-1,US: HBO Comedy HD 1080
-http://nitro.ltd:25461/flight/flight12/5879
-#EXTINF:-1,US: HBO Family East
-http://nitro.ltd:25461/flight/flight12/41405
-#EXTINF:-1,US: HBO Signature HD 1080
-http://nitro.ltd:25461/flight/flight12/5880
-#EXTINF:-1,US: Starz HD 1080
-http://nitro.ltd:25461/flight/flight12/22502
-#EXTINF:-1,US: Starz East FHD
-http://nitro.ltd:25461/flight/flight12/41398
-#EXTINF:-1,US: Starz West FHD
-http://nitro.ltd:25461/flight/flight12/41397
-#EXTINF:-1,US: Starz in Black
-http://nitro.ltd:25461/flight/flight12/41389
-#EXTINF:-1,US: Starz Kids & Family
-http://nitro.ltd:25461/flight/flight12/41388
-#EXTINF:-1,US: Starz Encore West
-http://nitro.ltd:25461/flight/flight12/41395
-#EXTINF:-1,US: Starz Encore Suspense
-http://nitro.ltd:25461/flight/flight12/41390
-#EXTINF:-1,US: Starz Encore Family
-http://nitro.ltd:25461/flight/flight12/41391
-#EXTINF:-1,US: Starz Encore East
-http://nitro.ltd:25461/flight/flight12/41396
-#EXTINF:-1,US: Starz Encore Classic
-http://nitro.ltd:25461/flight/flight12/41392
-#EXTINF:-1,US: Starz Encore Action
-http://nitro.ltd:25461/flight/flight12/41393
-#EXTINF:-1,US: Starz Kids & Family HD
-http://nitro.ltd:25461/flight/flight12/6852
-#EXTINF:-1,US: Starz Encore Edge HD
-http://nitro.ltd:25461/flight/flight12/19677
-#EXTINF:-1,US: Starz Encore Westerns
-http://nitro.ltd:25461/flight/flight12/25047
-#EXTINF:-1,US: Showtime West FHD
-http://nitro.ltd:25461/flight/flight12/41400
-#EXTINF:-1,US: Showtime West (backup)
-http://nitro.ltd:25461/flight/flight12/41399
-#EXTINF:-1,US: Showtime HD 1080
-http://nitro.ltd:25461/flight/flight12/8186
-#EXTINF:-1,US: Showtime East HD 1080
-http://nitro.ltd:25461/flight/flight12/19846
-#EXTINF:-1,US: Showtime East HD (backup3)
-http://nitro.ltd:25461/flight/flight12/3670
-#EXTINF:-1,US: Showtime 2
-http://nitro.ltd:25461/flight/flight12/41401
-#EXTINF:-1,US: Showtime 2 HD
-http://nitro.ltd:25461/flight/flight12/5883
-#EXTINF:-1,US: Showtime 720
-http://nitro.ltd:25461/flight/flight12/19663
-#EXTINF:-1,US: Showtime Extreme HD
-http://nitro.ltd:25461/flight/flight12/19666
-#EXTINF:-1,US: Showtime Showcase HD
-http://nitro.ltd:25461/flight/flight12/19664
-#EXTINF:-1,US: Showtime Next HD
-http://nitro.ltd:25461/flight/flight12/28540
-#EXTINF:-1,US: Cinemax East HD 1080
-http://nitro.ltd:25461/flight/flight12/19847
-#EXTINF:-1,US: Cinemax Moremax HD 1080
-http://nitro.ltd:25461/flight/flight12/19655
-#EXTINF:-1,US: Cinemax Thrillermax HD 1080
-http://nitro.ltd:25461/flight/flight12/3679
-#EXTINF:-1,US: Sony Movies HD
-http://nitro.ltd:25461/flight/flight12/19725
-#EXTINF:-1,US: EPIX HD 1080
-http://nitro.ltd:25461/flight/flight12/5874
-#EXTINF:-1,US: EPIX2
-http://nitro.ltd:25461/flight/flight12/40915
-#EXTINF:-1,US: Epix Hits
-http://nitro.ltd:25461/flight/flight12/40890
-#EXTINF:-1,US: NBC HD Albany GA
-http://nitro.ltd:25461/flight/flight12/41495
-#EXTINF:-1,US: CBS HD Albany NY
-http://nitro.ltd:25461/flight/flight12/37852
-#EXTINF:-1,US: NBC HD Albany NY
-http://nitro.ltd:25461/flight/flight12/37834
-#EXTINF:-1,US: FOX HD Albany NY
-http://nitro.ltd:25461/flight/flight12/22836
-#EXTINF:-1,US: FOX HD Albuquerque NM
-http://nitro.ltd:25461/flight/flight12/37869
-#EXTINF:-1,US: CBS HD Albuquerque NM
-http://nitro.ltd:25461/flight/flight12/37853
-#EXTINF:-1,US: NBC HD Albuquerque NM
-http://nitro.ltd:25461/flight/flight12/37813
-#EXTINF:-1,US: ABC HD Atlanta GA
-http://nitro.ltd:25461/flight/flight12/19838
-#EXTINF:-1,US: CBS HD Atlanta GA
-http://nitro.ltd:25461/flight/flight12/19882
-#EXTINF:-1,US: CW HD Atlanta
-http://nitro.ltd:25461/flight/flight12/22884
-#EXTINF:-1,US: FOX HD Atlanta GA
-http://nitro.ltd:25461/flight/flight12/11762
-#EXTINF:-1,US: NBC HD Atlanta GA
-http://nitro.ltd:25461/flight/flight12/19883
-#EXTINF:-1,US: CBS HD Altoona PA
-http://nitro.ltd:25461/flight/flight12/37836
-#EXTINF:-1,US: NBC HD Augusta GA
-http://nitro.ltd:25461/flight/flight12/38437
-#EXTINF:-1,US: CBS HD Augusta GA
-http://nitro.ltd:25461/flight/flight12/38368
-#EXTINF:-1,US: FOX HD Augusta GA
-http://nitro.ltd:25461/flight/flight12/37875
-#EXTINF:-1,US: CBS HD Austin TX
-http://nitro.ltd:25461/flight/flight12/37854
-#EXTINF:-1,US: FOX HD Austin TX
-http://nitro.ltd:25461/flight/flight12/11710
-#EXTINF:-1,US: NBC HD Austin TX
-http://nitro.ltd:25461/flight/flight12/38434
-#EXTINF:-1,US: CBS HD Bakersfield CA
-http://nitro.ltd:25461/flight/flight12/37837
-#EXTINF:-1,US: NBC HD Bakersfield CA
-http://nitro.ltd:25461/flight/flight12/37811
-#EXTINF:-1,US: ABC HD Baltimore MD
-http://nitro.ltd:25461/flight/flight12/19819
-#EXTINF:-1,US: FOX HD Baltimore MD
-http://nitro.ltd:25461/flight/flight12/19864
-#EXTINF:-1,US: NBC HD Baltimore MD
-http://nitro.ltd:25461/flight/flight12/11708
-#EXTINF:-1,US: CBS HD Baltimore MD
-http://nitro.ltd:25461/flight/flight12/11735
-#EXTINF:-1,US: FOX HD Baton Rouge LA
-http://nitro.ltd:25461/flight/flight12/37866
-#EXTINF:-1,US: CBS HD Bay City MI
-http://nitro.ltd:25461/flight/flight12/12531
-#EXTINF:-1,US: FOX HD Belmont
-http://nitro.ltd:25461/flight/flight12/11767
-#EXTINF:-1,US: NBC HD Birmingham AL
-http://nitro.ltd:25461/flight/flight12/38464
-#EXTINF:-1,US: CBS HD Birmingham AL
-http://nitro.ltd:25461/flight/flight12/37855
-#EXTINF:-1,US: FOX HD Birmingham AL
-http://nitro.ltd:25461/flight/flight12/37876
-#EXTINF:-1,US: NBC HD Blue Field WV
-http://nitro.ltd:25461/flight/flight12/38465
-#EXTINF:-1,US: NBC HD Boise ID
-http://nitro.ltd:25461/flight/flight12/38430
-#EXTINF:-1,US: CBS HD Boise ID
-http://nitro.ltd:25461/flight/flight12/37856
-#EXTINF:-1,US: FOX HD Boise ID
-http://nitro.ltd:25461/flight/flight12/37877
-#EXTINF:-1,US: KTVB CHANNEL 7 BOISE
-http://nitro.ltd:25461/flight/flight12/28548
-#EXTINF:-1,US: ABC HD Boston MA
-http://nitro.ltd:25461/flight/flight12/19833
-#EXTINF:-1,US: CBS HD Boston MA
-http://nitro.ltd:25461/flight/flight12/11702
-#EXTINF:-1,US: MY 38 HD Boston MA
-http://nitro.ltd:25461/flight/flight12/37842
-#EXTINF:-1,US: FOX HD Boston MA
-http://nitro.ltd:25461/flight/flight12/19872
-#EXTINF:-1,US: NBC HD Boston MA
-http://nitro.ltd:25461/flight/flight12/5947
-#EXTINF:-1,US: News 12 Bronx
-http://nitro.ltd:25461/flight/flight12/18520
-#EXTINF:-1,US: News 12 Brooklyn
-http://nitro.ltd:25461/flight/flight12/18521
-#EXTINF:-1,US: CBS HD Buffalo NY
-http://nitro.ltd:25461/flight/flight12/37857
-#EXTINF:-1,US: FOX HD Buffalo NY
-http://nitro.ltd:25461/flight/flight12/11791
-#EXTINF:-1,US: NBC HD Buffalo NY
-http://nitro.ltd:25461/flight/flight12/38452
-#EXTINF:-1,US: CBS HD Burlington VT
-http://nitro.ltd:25461/flight/flight12/12561
-#EXTINF:-1,US: FOX HD Burlington VT
-http://nitro.ltd:25461/flight/flight12/22839
-#EXTINF:-1,US: CBS HD Cadillac MI
-http://nitro.ltd:25461/flight/flight12/12586
-#EXTINF:-1,US: CBS HD Cape Girardeau MO
-http://nitro.ltd:25461/flight/flight12/37850
-#EXTINF:-1,US: FOX HD Cape Girardeau MO
-http://nitro.ltd:25461/flight/flight12/22865
-#EXTINF:-1,US: CBS HD Cedar Rapids IA
-http://nitro.ltd:25461/flight/flight12/38317
-#EXTINF:-1,US: CBS HD Champaign IL
-http://nitro.ltd:25461/flight/flight12/38350
-#EXTINF:-1,US: FOX HD Charlotte NC
-http://nitro.ltd:25461/flight/flight12/19884
-#EXTINF:-1,US: NBC HD Charlotte NC
-http://nitro.ltd:25461/flight/flight12/19881
-#EXTINF:-1,US: ABC HD Charlotte NC
-http://nitro.ltd:25461/flight/flight12/19825
-#EXTINF:-1,US: CBS HD Charlotte NC
-http://nitro.ltd:25461/flight/flight12/19880
-#EXTINF:-1,US: CBS HD Charleston SC
-http://nitro.ltd:25461/flight/flight12/12544
-#EXTINF:-1,US: FOX HD Charleston SC
-http://nitro.ltd:25461/flight/flight12/22840
-#EXTINF:-1,US: FOX HD Charleston WV
-http://nitro.ltd:25461/flight/flight12/22841
-#EXTINF:-1,US: FOX HD Chattanooga TN
-http://nitro.ltd:25461/flight/flight12/22842
-#EXTINF:-1,US: CBS HD Chattanooga TN
-http://nitro.ltd:25461/flight/flight12/37843
-#EXTINF:-1,US: FOX HD Chicago IL
-http://nitro.ltd:25461/flight/flight12/11749
-#EXTINF:-1,US: ABC HD Chicago IL
-http://nitro.ltd:25461/flight/flight12/19839
-#EXTINF:-1,US: CW HD Chicago IL
-http://nitro.ltd:25461/flight/flight12/38405
-#EXTINF:-1,US: NBC HD Chicago IL
-http://nitro.ltd:25461/flight/flight12/11752
-#EXTINF:-1,US: WGN HD Chicago
-http://nitro.ltd:25461/flight/flight12/7958
-#EXTINF:-1,US: CBS HD Chicago IL
-http://nitro.ltd:25461/flight/flight12/11743
-#EXTINF:-1,US: NBC HD Cincinnati OH
-http://nitro.ltd:25461/flight/flight12/37798
-#EXTINF:-1,US: CBS HD Cincinnati OH
-http://nitro.ltd:25461/flight/flight12/37797
-#EXTINF:-1,US: FOX HD Cincinnati OH
-http://nitro.ltd:25461/flight/flight12/22843
-#EXTINF:-1,US: ABC HD Cleveland OH
-http://nitro.ltd:25461/flight/flight12/19823
-#EXTINF:-1,US: NBC HD Cleveland
-http://nitro.ltd:25461/flight/flight12/19886
-#EXTINF:-1,US: FOX HD Cleveland OH
-http://nitro.ltd:25461/flight/flight12/11775
-#EXTINF:-1,US: CBS HD Cleveland OH
-http://nitro.ltd:25461/flight/flight12/19885
-#EXTINF:-1,US: CBS Colorado Springs
-http://nitro.ltd:25461/flight/flight12/12569
-#EXTINF:-1,US: NBC HD Colorado Springs CO
-http://nitro.ltd:25461/flight/flight12/37799
-#EXTINF:-1,US: CBS HD Colorado Springs CO
-http://nitro.ltd:25461/flight/flight12/38321
-#EXTINF:-1,US: FOX HD Colorado Springs CO
-http://nitro.ltd:25461/flight/flight12/37800
-#EXTINF:-1,US: Fox HD Columbia SC
-http://nitro.ltd:25461/flight/flight12/22844
-#EXTINF:-1,US: CBS HD Columbia SC
-http://nitro.ltd:25461/flight/flight12/37841
-#EXTINF:-1,US: NBC HD Columbia SC
-http://nitro.ltd:25461/flight/flight12/37823
-#EXTINF:-1,US: NBC HD Columbus GA
-http://nitro.ltd:25461/flight/flight12/38456
-#EXTINF:-1,US: CBS HD Columbus MS
-http://nitro.ltd:25461/flight/flight12/38349
-#EXTINF:-1,US: ABC HD Columbus
-http://nitro.ltd:25461/flight/flight12/21759
-#EXTINF:-1,US: FOX HD Columbus OH
-http://nitro.ltd:25461/flight/flight12/11722
-#EXTINF:-1,US: CBS HD Columbus OH
-http://nitro.ltd:25461/flight/flight12/11796
-#EXTINF:-1,US: NBC HD Columbus OH
-http://nitro.ltd:25461/flight/flight12/38442
-#EXTINF:-1,US: News 12 Connecticut
-http://nitro.ltd:25461/flight/flight12/18522
-#EXTINF:-1,US: CBS HD Corpus Christi TX
-http://nitro.ltd:25461/flight/flight12/37859
-#EXTINF:-1,US: FOX HD Corpus Christi TX
-http://nitro.ltd:25461/flight/flight12/37878
-#EXTINF:-1,US: NBC HD Corpus Christi TX
-http://nitro.ltd:25461/flight/flight12/38426
-#EXTINF:-1,US: CW HD
-http://nitro.ltd:25461/flight/flight12/11669
-#EXTINF:-1,US: ABC HD Dallas TX
-http://nitro.ltd:25461/flight/flight12/19831
-#EXTINF:-1,US: CBS HD Dallas TX KTVT
-http://nitro.ltd:25461/flight/flight12/11789
-#EXTINF:-1,US: NBC HD Dallas TX
-http://nitro.ltd:25461/flight/flight12/11776
-#EXTINF:-1,US: FOX HD Dallas TX
-http://nitro.ltd:25461/flight/flight12/11729
-#EXTINF:-1,US: CBS HD Dallas TX KTXA
-http://nitro.ltd:25461/flight/flight12/38342
-#EXTINF:-1,US: FOX HD Davenport IA
-http://nitro.ltd:25461/flight/flight12/22845
-#EXTINF:-1,US: NBC HD Davenport IA
-http://nitro.ltd:25461/flight/flight12/38433
-#EXTINF:-1,US: NBC HD Dayton OH
-http://nitro.ltd:25461/flight/flight12/38444
-#EXTINF:-1,US: CBS HD Dayton OH
-http://nitro.ltd:25461/flight/flight12/12534
-#EXTINF:-1,US: FOX HD Dayton OH
-http://nitro.ltd:25461/flight/flight12/22846
-#EXTINF:-1,US: ABC HD Denver CO
-http://nitro.ltd:25461/flight/flight12/19830
-#EXTINF:-1,US: FOX HD Denver CO
-http://nitro.ltd:25461/flight/flight12/11711
-#EXTINF:-1,US: NBC HD Denver CO
-http://nitro.ltd:25461/flight/flight12/19887
-#EXTINF:-1,US: CBS HD Denver CO
-http://nitro.ltd:25461/flight/flight12/11760
-#EXTINF:-1,US: FOX HD Des Moines IA
-http://nitro.ltd:25461/flight/flight12/22847
-#EXTINF:-1,US: CBS HD Des Moines IA
-http://nitro.ltd:25461/flight/flight12/37918
-#EXTINF:-1,US: ABC HD Detroit MI
-http://nitro.ltd:25461/flight/flight12/19813
-#EXTINF:-1,US: CBS HD Detroit MI
-http://nitro.ltd:25461/flight/flight12/11777
-#EXTINF:-1,US: FOX HD Detroit MI
-http://nitro.ltd:25461/flight/flight12/11683
-#EXTINF:-1,US: NBC HD Detroit MI
-http://nitro.ltd:25461/flight/flight12/11730
-#EXTINF:-1,US: CW HD Detroit
-http://nitro.ltd:25461/flight/flight12/22885
-#EXTINF:-1,US: ABC HD Durham
-http://nitro.ltd:25461/flight/flight12/19837
-#EXTINF:-1,US: NBC HD Eau Claire WI
-http://nitro.ltd:25461/flight/flight12/38445
-#EXTINF:-1,US: CBS HD El Paso TX
-http://nitro.ltd:25461/flight/flight12/37919
-#EXTINF:-1,US: FOX HD El Paso TX
-http://nitro.ltd:25461/flight/flight12/37879
-#EXTINF:-1,US: CBS HD Eugene OR
-http://nitro.ltd:25461/flight/flight12/38344
-#EXTINF:-1,US: FOX HD Evansville IN
-http://nitro.ltd:25461/flight/flight12/37880
-#EXTINF:-1,US: NBC HD Evansville IN
-http://nitro.ltd:25461/flight/flight12/38448
-#EXTINF:-1,US: NBC HD Fargo ND
-http://nitro.ltd:25461/flight/flight12/37801
-#EXTINF:-1,US: FOX HD Fargo ND
-http://nitro.ltd:25461/flight/flight12/22848
-#EXTINF:-1,US: FOX HD Flint MI
-http://nitro.ltd:25461/flight/flight12/22849
-#EXTINF:-1,US: CBS HD Florence SC
-http://nitro.ltd:25461/flight/flight12/38348
-#EXTINF:-1,US: CBS HD Fort Myers
-http://nitro.ltd:25461/flight/flight12/12560
-#EXTINF:-1,US: FOX HD Fort Myers FL
-http://nitro.ltd:25461/flight/flight12/22851
-#EXTINF:-1,US: NBC HD Fort Myers FL
-http://nitro.ltd:25461/flight/flight12/38439
-#EXTINF:-1,US: CBS HD Fort Wayne IN
-http://nitro.ltd:25461/flight/flight12/38346
-#EXTINF:-1,US: FOX HD Fort Wayne IN
-http://nitro.ltd:25461/flight/flight12/22852
-#EXTINF:-1,US: NBC HD Fort Wayne IN
-http://nitro.ltd:25461/flight/flight12/38459
-#EXTINF:-1,US: ABC HD Fresno CA
-http://nitro.ltd:25461/flight/flight12/19836
-#EXTINF:-1,US: CBS HD Fresno CA
-http://nitro.ltd:25461/flight/flight12/38319
-#EXTINF:-1,US: FOX HD Fresno CA
-http://nitro.ltd:25461/flight/flight12/22850
-#EXTINF:-1,US: NBC HD Fresno CA
-http://nitro.ltd:25461/flight/flight12/38427
-#EXTINF:-1,US: FOX HD Gainsville FL
-http://nitro.ltd:25461/flight/flight12/11797
-#EXTINF:-1,US: CBS HD Goldsboro NC
-http://nitro.ltd:25461/flight/flight12/38363
-#EXTINF:-1,US: FOX HD Grand Rapids MI
-http://nitro.ltd:25461/flight/flight12/37795
-#EXTINF:-1,US: NBC HD Grand Rapids MI
-http://nitro.ltd:25461/flight/flight12/37793
-#EXTINF:-1,US: CBS HD Green Bay WI
-http://nitro.ltd:25461/flight/flight12/38351
-#EXTINF:-1,US: FOX HD Green Bay WI
-http://nitro.ltd:25461/flight/flight12/22853
-#EXTINF:-1,US: NBC HD Green Bay WI
-http://nitro.ltd:25461/flight/flight12/37814
-#EXTINF:-1,US: CBS HD Greensboro NC
-http://nitro.ltd:25461/flight/flight12/37777
-#EXTINF:-1,US: CBS HD Greenville NC
-http://nitro.ltd:25461/flight/flight12/38364
-#EXTINF:-1,US: NBC HD Greenville NC
-http://nitro.ltd:25461/flight/flight12/37818
-#EXTINF:-1,US: FOX HD Greensboro NC
-http://nitro.ltd:25461/flight/flight12/37781
-#EXTINF:-1,US: NBC HD Greensboro NC
-http://nitro.ltd:25461/flight/flight12/37782
-#EXTINF:-1,US: FOX HD Hampton Roads VA
-http://nitro.ltd:25461/flight/flight12/38408
-#EXTINF:-1,US: FOX HD Hardeeville SC
-http://nitro.ltd:25461/flight/flight12/22872
-#EXTINF:-1,US: ABC Harrisburg
-http://nitro.ltd:25461/flight/flight12/42017
-#EXTINF:-1,US: CBS HD Harrisburg PA
-http://nitro.ltd:25461/flight/flight12/25034
-#EXTINF:-1,US: CW HD Harrisburg
-http://nitro.ltd:25461/flight/flight12/22891
-#EXTINF:-1,US: FOX HD Harrisburg PA
-http://nitro.ltd:25461/flight/flight12/37872
-#EXTINF:-1,US: ABC HD Hartford CT
-http://nitro.ltd:25461/flight/flight12/19835
-#EXTINF:-1,US: CBS HD Hartford CT
-http://nitro.ltd:25461/flight/flight12/31031
-#EXTINF:-1,US: FOX HD Hartford CT
-http://nitro.ltd:25461/flight/flight12/11680
-#EXTINF:-1,US: NBC HD Hartford CT
-http://nitro.ltd:25461/flight/flight12/11712
-#EXTINF:-1,US: NBC HD Hastings NE
-http://nitro.ltd:25461/flight/flight12/38428
-#EXTINF:-1,US: FOX HD Hazleton PA
-http://nitro.ltd:25461/flight/flight12/22883
-#EXTINF:-1,US: FOX HD High Point NC
-http://nitro.ltd:25461/flight/flight12/37865
-#EXTINF:-1,US: CBS HD Honolulu HI
-http://nitro.ltd:25461/flight/flight12/12541
-#EXTINF:-1,US: FOX HD Honolulu HI
-http://nitro.ltd:25461/flight/flight12/22854
-#EXTINF:-1,US: NBC HD Honolulu HI
-http://nitro.ltd:25461/flight/flight12/37830
-#EXTINF:-1,US: ABC HD Houston TX
-http://nitro.ltd:25461/flight/flight12/19844
-#EXTINF:-1,US: CBS HD Houston TX
-http://nitro.ltd:25461/flight/flight12/19879
-#EXTINF:-1,US: FOX HD Houston TX
-http://nitro.ltd:25461/flight/flight12/10163
-#EXTINF:-1,US: NBC HD Houston TX
-http://nitro.ltd:25461/flight/flight12/10160
-#EXTINF:-1,US: News 12 Hudson Valley
-http://nitro.ltd:25461/flight/flight12/18523
-#EXTINF:-1,US: CBS HD Huntington WV
-http://nitro.ltd:25461/flight/flight12/37858
-#EXTINF:-1,US: NBC HD Huntington WV
-http://nitro.ltd:25461/flight/flight12/37833
-#EXTINF:-1,US: FOX HD Huntsville AL
-http://nitro.ltd:25461/flight/flight12/37861
-#EXTINF:-1,US: NBC HD Huntsville AL
-http://nitro.ltd:25461/flight/flight12/38436
-#EXTINF:-1,US: FOX HD Indianapolis IN
-http://nitro.ltd:25461/flight/flight12/11772
-#EXTINF:-1,US: NBC HD Indianapolis IN
-http://nitro.ltd:25461/flight/flight12/19888
-#EXTINF:-1,US: ABC HD Indianapolis IN
-http://nitro.ltd:25461/flight/flight12/19822
-#EXTINF:-1,US: CBS HD Jackson MS
-http://nitro.ltd:25461/flight/flight12/38355
-#EXTINF:-1,US: FOX HD Jackson MS
-http://nitro.ltd:25461/flight/flight12/38402
-#EXTINF:-1,US: NBC HD Jackson MS
-http://nitro.ltd:25461/flight/flight12/38454
-#EXTINF:-1,US: CBS HD Jacksonville FL
-http://nitro.ltd:25461/flight/flight12/11779
-#EXTINF:-1,US: FOX HD Jacksonville FL
-http://nitro.ltd:25461/flight/flight12/11757
-#EXTINF:-1,US: NBC HD Jacksonville FL
-http://nitro.ltd:25461/flight/flight12/19859
-#EXTINF:-1,US: CW HD Jeannette
-http://nitro.ltd:25461/flight/flight12/22887
-#EXTINF:-1,US: CBS HD Johnson City TN
-http://nitro.ltd:25461/flight/flight12/38354
-#EXTINF:-1,US: CBS HD Kalamazoo MI
-http://nitro.ltd:25461/flight/flight12/37794
-#EXTINF:-1,US: ABC HD Kansas City MO
-http://nitro.ltd:25461/flight/flight12/19815
-#EXTINF:-1,US: FOX HD Kansas City MO
-http://nitro.ltd:25461/flight/flight12/11768
-#EXTINF:-1,US: NBC HD Kansas City MO
-http://nitro.ltd:25461/flight/flight12/19865
-#EXTINF:-1,US: CBS HD Kansas City MO
-http://nitro.ltd:25461/flight/flight12/19860
-#EXTINF:-1,US: NBC HD Kennewick WA
-http://nitro.ltd:25461/flight/flight12/37808
-#EXTINF:-1,US: CBS HD Knoxville TN
-http://nitro.ltd:25461/flight/flight12/12567
-#EXTINF:-1,US: FOX HD Knoxville TN
-http://nitro.ltd:25461/flight/flight12/22855
-#EXTINF:-1,US: NBC HD Knoxville TN
-http://nitro.ltd:25461/flight/flight12/38440
-#EXTINF:-1,US: CBS HD La Crosse WI
-http://nitro.ltd:25461/flight/flight12/38358
-#EXTINF:-1,US: FOX HD La Crosse WI
-http://nitro.ltd:25461/flight/flight12/38404
-#EXTINF:-1,US: FOX HD Lafayette LA
-http://nitro.ltd:25461/flight/flight12/38377
-#EXTINF:-1,US: CBS HD Lafayette LA
-http://nitro.ltd:25461/flight/flight12/38322
-#EXTINF:-1,US: NBC HD Lancaster PA
-http://nitro.ltd:25461/flight/flight12/37812
-#EXTINF:-1,US: NBC HD Lansing MI
-http://nitro.ltd:25461/flight/flight12/38453
-#EXTINF:-1,US: FOX HD Lansing MI
-http://nitro.ltd:25461/flight/flight12/37796
-#EXTINF:-1,US: CBS HD Lansing MI
-http://nitro.ltd:25461/flight/flight12/38361
-#EXTINF:-1,US: ABC Las Vegas
-http://nitro.ltd:25461/flight/flight12/42013
-#EXTINF:-1,US: NBC Las Vegas
-http://nitro.ltd:25461/flight/flight12/42014
-#EXTINF:-1,US: FOX Las Vegas
-http://nitro.ltd:25461/flight/flight12/42015
-#EXTINF:-1,US: CW Las Vegas
-http://nitro.ltd:25461/flight/flight12/42016
-#EXTINF:-1,US: FOX HD Las Vegas
-http://nitro.ltd:25461/flight/flight12/31028
-#EXTINF:-1,US: CBS HD Las Vegas NV
-http://nitro.ltd:25461/flight/flight12/37783
-#EXTINF:-1,US: FOX HD Lexington KY
-http://nitro.ltd:25461/flight/flight12/22856
-#EXTINF:-1,US: CBS HD Lexington KY
-http://nitro.ltd:25461/flight/flight12/12532
-#EXTINF:-1,US: NBC HD Lexington KY
-http://nitro.ltd:25461/flight/flight12/38455
-#EXTINF:-1,US: FOX HD Lincoln NE
-http://nitro.ltd:25461/flight/flight12/22857
-#EXTINF:-1,US: CBS HD Lincoln NE
-http://nitro.ltd:25461/flight/flight12/12570
-#EXTINF:-1,US: NBC HD Lincoln NB
-http://nitro.ltd:25461/flight/flight12/37776
-#EXTINF:-1,US: CBS HD Little Rock AR
-http://nitro.ltd:25461/flight/flight12/37844
-#EXTINF:-1,US: NBC HD Little Rock AR
-http://nitro.ltd:25461/flight/flight12/38416
-#EXTINF:-1,US: FOX HD Little Rock AR
-http://nitro.ltd:25461/flight/flight12/37862
-#EXTINF:-1,US: News 12 Long Island
-http://nitro.ltd:25461/flight/flight12/18524
-#EXTINF:-1,US: CBS HD KCAL Los Angeles CA
-http://nitro.ltd:25461/flight/flight12/19874
-#EXTINF:-1,US: CBS HD Los Angeles CA
-http://nitro.ltd:25461/flight/flight12/5963
-#EXTINF:-1,US: NBC HD Los Angeles CA
-http://nitro.ltd:25461/flight/flight12/5950
-#EXTINF:-1,US: CW HD KTLA CH 5 Los Angeles CA
-http://nitro.ltd:25461/flight/flight12/18517
-#EXTINF:-1,US: ABC HD Los Angeles CA
-http://nitro.ltd:25461/flight/flight12/19843
-#EXTINF:-1,US: FOX HD Los Angeles CA
-http://nitro.ltd:25461/flight/flight12/38380
-#EXTINF:-1,US: ABC HD Louisville
-http://nitro.ltd:25461/flight/flight12/41556
-#EXTINF:-1,US: CBS HD Louisville KY
-http://nitro.ltd:25461/flight/flight12/38360
-#EXTINF:-1,US: FOX HD Louisville KY
-http://nitro.ltd:25461/flight/flight12/31051
-#EXTINF:-1,US: NBC HD Louisville
-http://nitro.ltd:25461/flight/flight12/31052
-#EXTINF:-1,US: FOX HD McAllen TX
-http://nitro.ltd:25461/flight/flight12/37881
-#EXTINF:-1,US: FOX HD Macon GA
-http://nitro.ltd:25461/flight/flight12/22858
-#EXTINF:-1,US: NBC HD Madison WI
-http://nitro.ltd:25461/flight/flight12/37829
-#EXTINF:-1,US: CBS HD Madison WI
-http://nitro.ltd:25461/flight/flight12/37846
-#EXTINF:-1,US: FOX HD Madison WI
-http://nitro.ltd:25461/flight/flight12/22859
-#EXTINF:-1,US: NBC HD Memphis TN
-http://nitro.ltd:25461/flight/flight12/37827
-#EXTINF:-1,US: FOX HD Memphis TN
-http://nitro.ltd:25461/flight/flight12/22860
-#EXTINF:-1,US: CBS HD Miami FL
-http://nitro.ltd:25461/flight/flight12/11756
-#EXTINF:-1,US: MY 33 HD Miami FL WBFS
-http://nitro.ltd:25461/flight/flight12/37849
-#EXTINF:-1,US: FOX HD Miami FL
-http://nitro.ltd:25461/flight/flight12/5953
-#EXTINF:-1,US: NBC HD Miami FL
-http://nitro.ltd:25461/flight/flight12/11774
-#EXTINF:-1,US: ABC HD Miami FL
-http://nitro.ltd:25461/flight/flight12/19826
-#EXTINF:-1,US: CBS HD Milwaukee WI
-http://nitro.ltd:25461/flight/flight12/37847
-#EXTINF:-1,US: ABC HD Milwaukee WI
-http://nitro.ltd:25461/flight/flight12/19814
-#EXTINF:-1,US: NBC HD Milwaukee WI
-http://nitro.ltd:25461/flight/flight12/38463
-#EXTINF:-1,US: FOX HD Milwaukee WI
-http://nitro.ltd:25461/flight/flight12/11685
-#EXTINF:-1,US: NBC HD Minneapolis MN
-http://nitro.ltd:25461/flight/flight12/37802
-#EXTINF:-1,US: ABC HD Minneapolis MN
-http://nitro.ltd:25461/flight/flight12/19818
-#EXTINF:-1,US: CBS HD Minneapolis MN
-http://nitro.ltd:25461/flight/flight12/11739
-#EXTINF:-1,US: FOX HD Minneapolis MN
-http://nitro.ltd:25461/flight/flight12/11707
-#EXTINF:-1,US: CBS HD Mobile AL
-http://nitro.ltd:25461/flight/flight12/38359
-#EXTINF:-1,US: CBS HD Monterey Bay CA
-http://nitro.ltd:25461/flight/flight12/37840
-#EXTINF:-1,US: NBC HD Montgomery AL
-http://nitro.ltd:25461/flight/flight12/38461
-#EXTINF:-1,US: FOX HD Moorefield
-http://nitro.ltd:25461/flight/flight12/11783
-#EXTINF:-1,US: FOX HD Myrtle Beach SC
-http://nitro.ltd:25461/flight/flight12/22862
-#EXTINF:-1,US: NBC HD Myrtle Beach SC
-http://nitro.ltd:25461/flight/flight12/38457
-#EXTINF:-1,US: ABC HD Nashville TN
-http://nitro.ltd:25461/flight/flight12/19828
-#EXTINF:-1,US: CBS HD Nashville TN
-http://nitro.ltd:25461/flight/flight12/11678
-#EXTINF:-1,US: FOX HD Nashville TN
-http://nitro.ltd:25461/flight/flight12/19889
-#EXTINF:-1,US: NBC HD Nashville
-http://nitro.ltd:25461/flight/flight12/19890
-#EXTINF:-1,US: My9 New Jersey
-http://nitro.ltd:25461/flight/flight12/25033
-#EXTINF:-1,US: News 12 New Jersey
-http://nitro.ltd:25461/flight/flight12/18525
-#EXTINF:-1,US: CBS HD New Orleans LA
-http://nitro.ltd:25461/flight/flight12/19870
-#EXTINF:-1,US: ABC HD New York NY
-http://nitro.ltd:25461/flight/flight12/11740
-#EXTINF:-1,US: CBS HD New York NY
-http://nitro.ltd:25461/flight/flight12/18519
-#EXTINF:-1,US: FOX HD New Orleans LA
-http://nitro.ltd:25461/flight/flight12/11800
-#EXTINF:-1,US: NBC HD New Orleans LA
-http://nitro.ltd:25461/flight/flight12/19871
-#EXTINF:-1,US: FOX HD New York NY
-http://nitro.ltd:25461/flight/flight12/5951
-#EXTINF:-1,US: NBC HD New York NY
-http://nitro.ltd:25461/flight/flight12/6095
-#EXTINF:-1,US: WLNY HD New York
-http://nitro.ltd:25461/flight/flight12/5964
-#EXTINF:-1,US: Fox HD Norfolk VA
-http://nitro.ltd:25461/flight/flight12/28503
-#EXTINF:-1,US: FOX HD Oakland CA
-http://nitro.ltd:25461/flight/flight12/37870
-#EXTINF:-1,US: ABC Oklahoma City
-http://nitro.ltd:25461/flight/flight12/42012
-#EXTINF:-1,US: CBS HD Oklahoma City OK
-http://nitro.ltd:25461/flight/flight12/12591
-#EXTINF:-1,US: FOX HD Oklahoma City OK
-http://nitro.ltd:25461/flight/flight12/22863
-#EXTINF:-1,US: CBS HD Omaha NE
-http://nitro.ltd:25461/flight/flight12/37839
-#EXTINF:-1,US: FOX HD Omaha NE
-http://nitro.ltd:25461/flight/flight12/22864
-#EXTINF:-1,US: NBC HD Omaha NE
-http://nitro.ltd:25461/flight/flight12/37825
-#EXTINF:-1,US: ABC HD Orlando FL
-http://nitro.ltd:25461/flight/flight12/19827
-#EXTINF:-1,US: CBS HD Orlando FL
-http://nitro.ltd:25461/flight/flight12/11709
-#EXTINF:-1,US: FOX HD Orlando FL
-http://nitro.ltd:25461/flight/flight12/11778
-#EXTINF:-1,US: NBC HD Orlando FL
-http://nitro.ltd:25461/flight/flight12/38447
-#EXTINF:-1,US: NBC HD Paducah KY
-http://nitro.ltd:25461/flight/flight12/38458
-#EXTINF:-1,US: NBC HD Panama City FL
-http://nitro.ltd:25461/flight/flight12/37815
-#EXTINF:-1,US: PBS HD Penn State University
-http://nitro.ltd:25461/flight/flight12/6072
-#EXTINF:-1,US: NBC HD Peoria IL
-http://nitro.ltd:25461/flight/flight12/38446
-#EXTINF:-1,US: FOX HD Peoria IL
-http://nitro.ltd:25461/flight/flight12/38410
-#EXTINF:-1,US: CBS HD Peoria IL
-http://nitro.ltd:25461/flight/flight12/38362
-#EXTINF:-1,US: ABC HD Philadelphia
-http://nitro.ltd:25461/flight/flight12/3684
-#EXTINF:-1,US: ABC HD Phiadelphia
-http://nitro.ltd:25461/flight/flight12/41552
-#EXTINF:-1,US: NBC HD Philadelphia
-http://nitro.ltd:25461/flight/flight12/41553
-#EXTINF:-1,US: FOX HD Philadelphia
-http://nitro.ltd:25461/flight/flight12/41555
-#EXTINF:-1,US: ABC HD Philadelphia PA
-http://nitro.ltd:25461/flight/flight12/18518
-#EXTINF:-1,US: CBS HD Philadelphia PA
-http://nitro.ltd:25461/flight/flight12/3682
-#EXTINF:-1,US: CW HD Philadelphia 1080
-http://nitro.ltd:25461/flight/flight12/22886
-#EXTINF:-1,US: ABC HD Phoenix AZ
-http://nitro.ltd:25461/flight/flight12/19821
-#EXTINF:-1,US: CBS HD Phoenix AZ
-http://nitro.ltd:25461/flight/flight12/19891
-#EXTINF:-1,US: NBC HD Phoenix AZ
-http://nitro.ltd:25461/flight/flight12/19892
-#EXTINF:-1,US: FOX HD Phoenix AZ
-http://nitro.ltd:25461/flight/flight12/11720
-#EXTINF:-1,US: ABC HD Pittsburgh PA
-http://nitro.ltd:25461/flight/flight12/19832
-#EXTINF:-1,US: CBS HD Pittsburgh PA
-http://nitro.ltd:25461/flight/flight12/11744
-#EXTINF:-1,US: FOX HD Pittsburgh PA
-http://nitro.ltd:25461/flight/flight12/11704
-#EXTINF:-1,US: NBC HD Pittsburgh PA
-http://nitro.ltd:25461/flight/flight12/11695
-#EXTINF:-1,US: NBC HD Plattsburgh NY
-http://nitro.ltd:25461/flight/flight12/37817
-#EXTINF:-1,US: CBS HD Portland ME
-http://nitro.ltd:25461/flight/flight12/38352
-#EXTINF:-1,US: NBC HD Portland ME
-http://nitro.ltd:25461/flight/flight12/38443
-#EXTINF:-1,US: ABC HD Portand OR
-http://nitro.ltd:25461/flight/flight12/25027
-#EXTINF:-1,US: CBS HD Portland OR
-http://nitro.ltd:25461/flight/flight12/38323
-#EXTINF:-1,US: Fox HD Portland OR
-http://nitro.ltd:25461/flight/flight12/19867
-#EXTINF:-1,US: NBC HD Portland OR
-http://nitro.ltd:25461/flight/flight12/25028
-#EXTINF:-1,US: NBC HD Portsmouth VA
-http://nitro.ltd:25461/flight/flight12/38438
-#EXTINF:-1,US: CBS HD Providence RI
-http://nitro.ltd:25461/flight/flight12/38367
-#EXTINF:-1,US: FOX HD Providence RI
-http://nitro.ltd:25461/flight/flight12/37868
-#EXTINF:-1,US: ABC HD Raleigh NC
-http://nitro.ltd:25461/flight/flight12/21757
-#EXTINF:-1,US: FOX HD Raleigh NC
-http://nitro.ltd:25461/flight/flight12/22867
-#EXTINF:-1,US: CBS HD Reno NV
-http://nitro.ltd:25461/flight/flight12/38341
-#EXTINF:-1,US: FOX HD Reno NV
-http://nitro.ltd:25461/flight/flight12/38379
-#EXTINF:-1,US: FOX HD Richmond VA
-http://nitro.ltd:25461/flight/flight12/22868
-#EXTINF:-1,US: NBC HD Richmond VA
-http://nitro.ltd:25461/flight/flight12/37822
-#EXTINF:-1,US: CBS HD Rio Grande Vly TX
-http://nitro.ltd:25461/flight/flight12/38318
-#EXTINF:-1,US: NBC HD Rio Grande Vly TX
-http://nitro.ltd:25461/flight/flight12/38431
-#EXTINF:-1,US: CBS HD Riverhead NY
-http://nitro.ltd:25461/flight/flight12/37838
-#EXTINF:-1,US: CBS HD Roanoke VA
-http://nitro.ltd:25461/flight/flight12/12585
-#EXTINF:-1,US: FOX HD Roanoke VA
-http://nitro.ltd:25461/flight/flight12/37871
-#EXTINF:-1,US: NBC HD Roanoke VA
-http://nitro.ltd:25461/flight/flight12/38462
-#EXTINF:-1,US: FOX HD Rochester NY
-http://nitro.ltd:25461/flight/flight12/22869
-#EXTINF:-1,US: NBC HD Rochester NY
-http://nitro.ltd:25461/flight/flight12/37821
-#EXTINF:-1,US: CBS HD Rock Island IL
-http://nitro.ltd:25461/flight/flight12/38353
-#EXTINF:-1,US: ABC HD Sacramento CA
-http://nitro.ltd:25461/flight/flight12/19824
-#EXTINF:-1,US: CBS HD Sacramento CA
-http://nitro.ltd:25461/flight/flight12/11703
-#EXTINF:-1,US: FOX HD Sacramento CA
-http://nitro.ltd:25461/flight/flight12/11723
-#EXTINF:-1,US: CW HD Sacramento
-http://nitro.ltd:25461/flight/flight12/22888
-#EXTINF:-1,US: NBC HD Sacramento CA
-http://nitro.ltd:25461/flight/flight12/38418
-#EXTINF:-1,US: NBC HD Salinas CA
-http://nitro.ltd:25461/flight/flight12/37803
-#EXTINF:-1,US: FOX HD Salinas CA
-http://nitro.ltd:25461/flight/flight12/22861
-#EXTINF:-1,US: CBS HD Salinas CA
-http://nitro.ltd:25461/flight/flight12/37804
-#EXTINF:-1,US: FOX HD Salt Lake City UT
-http://nitro.ltd:25461/flight/flight12/11716
-#EXTINF:-1,US: ABC HD Salt Lake City UT
-http://nitro.ltd:25461/flight/flight12/19817
-#EXTINF:-1,US: CBS HD Salt Lake City UT
-http://nitro.ltd:25461/flight/flight12/38343
-#EXTINF:-1,US: ABC HD San Antonio TX
-http://nitro.ltd:25461/flight/flight12/19816
-#EXTINF:-1,US: FOX HD San Antonio TX
-http://nitro.ltd:25461/flight/flight12/22870
-#EXTINF:-1,US: CBS HD San Antonio TX
-http://nitro.ltd:25461/flight/flight12/31054
-#EXTINF:-1,US: ABC HD San Diego CA
-http://nitro.ltd:25461/flight/flight12/19829
-#EXTINF:-1,US: CBS HD San Diego CA
-http://nitro.ltd:25461/flight/flight12/11745
-#EXTINF:-1,US: FOX HD San Diego
-http://nitro.ltd:25461/flight/flight12/11726
-#EXTINF:-1,US: NBC HD San Diego CA
-http://nitro.ltd:25461/flight/flight12/11782
-#EXTINF:-1,US: FOX HD San Francisco
-http://nitro.ltd:25461/flight/flight12/6097
-#EXTINF:-1,US: ABC HD San Francisco CA
-http://nitro.ltd:25461/flight/flight12/19842
-#EXTINF:-1,US: CBS HD San Francisco CA
-http://nitro.ltd:25461/flight/flight12/5962
-#EXTINF:-1,US: NBC HD San Francisco
-http://nitro.ltd:25461/flight/flight12/5949
-#EXTINF:-1,US: CW HD San Francisco
-http://nitro.ltd:25461/flight/flight12/22892
-#EXTINF:-1,US: NBC HD San Jose CA
-http://nitro.ltd:25461/flight/flight12/37820
-#EXTINF:-1,US: FOX HD San Jose CA
-http://nitro.ltd:25461/flight/flight12/37874
-#EXTINF:-1,US: FOX HD San Luis Obispo CA
-http://nitro.ltd:25461/flight/flight12/22871
-#EXTINF:-1,US: NBC HD San Luis Obispo CA
-http://nitro.ltd:25461/flight/flight12/37826
-#EXTINF:-1,US: NBC HD Salt Lake City UT
-http://nitro.ltd:25461/flight/flight12/37824
-#EXTINF:-1,US: CBS HD Santa Maria CA
-http://nitro.ltd:25461/flight/flight12/12566
-#EXTINF:-1,US: CBS Savannah
-http://nitro.ltd:25461/flight/flight12/12549
-#EXTINF:-1,US: CBS HD Savannah GA
-http://nitro.ltd:25461/flight/flight12/38371
-#EXTINF:-1,US: FOX HD Savannah GA
-http://nitro.ltd:25461/flight/flight12/37867
-#EXTINF:-1,US: NBC HD Savannah GA
-http://nitro.ltd:25461/flight/flight12/38460
-#EXTINF:-1,US: FOX HD Scranton PA
-http://nitro.ltd:25461/flight/flight12/37873
-#EXTINF:-1,US: NBC HD Scranton PA
-http://nitro.ltd:25461/flight/flight12/38441
-#EXTINF:-1,US: ABC HD Seattle WA
-http://nitro.ltd:25461/flight/flight12/37788
-#EXTINF:-1,US: CW HD Seattle
-http://nitro.ltd:25461/flight/flight12/22889
-#EXTINF:-1,US: CBS HD Seattle WA
-http://nitro.ltd:25461/flight/flight12/11736
-#EXTINF:-1,US: FOX HD Seattle WA
-http://nitro.ltd:25461/flight/flight12/37790
-#EXTINF:-1,US: NBC HD Seattle WA
-http://nitro.ltd:25461/flight/flight12/37789
-#EXTINF:-1,US: CBS HD Selma AL
-http://nitro.ltd:25461/flight/flight12/38345
-#EXTINF:-1,US: NBC HD Shreveport LA
-http://nitro.ltd:25461/flight/flight12/38429
-#EXTINF:-1,US: CBS HD Shreveport LA
-http://nitro.ltd:25461/flight/flight12/38340
-#EXTINF:-1,US: FOX HD Shreveport LA
-http://nitro.ltd:25461/flight/flight12/22873
-#EXTINF:-1,US: NBC HD Sioux City IA
-http://nitro.ltd:25461/flight/flight12/37809
-#EXTINF:-1,US: FOX HD Sioux Falls SD
-http://nitro.ltd:25461/flight/flight12/22874
-#EXTINF:-1,US: NBC HD Sioux Falls SD
-http://nitro.ltd:25461/flight/flight12/37785
-#EXTINF:-1,US: CBS HD Sioux Falls SD
-http://nitro.ltd:25461/flight/flight12/37784
-#EXTINF:-1,US: NBC HD South Bend IN
-http://nitro.ltd:25461/flight/flight12/37792
-#EXTINF:-1,US: FOX HD South Bend IN
-http://nitro.ltd:25461/flight/flight12/22875
-#EXTINF:-1,US: CBS HD Spartanburg SC
-http://nitro.ltd:25461/flight/flight12/38370
-#EXTINF:-1,US: CBS HD Spokane WA
-http://nitro.ltd:25461/flight/flight12/37845
-#EXTINF:-1,US: FOX HD Spokane WA
-http://nitro.ltd:25461/flight/flight12/38378
-#EXTINF:-1,US: NBC HD Spokane WA
-http://nitro.ltd:25461/flight/flight12/38422
-#EXTINF:-1,US: FOX HD Springfield IL
-http://nitro.ltd:25461/flight/flight12/22876
-#EXTINF:-1,US: NBC HD Springfield MA
-http://nitro.ltd:25461/flight/flight12/38467
-#EXTINF:-1,US: NBC HD Springfield MO
-http://nitro.ltd:25461/flight/flight12/38435
-#EXTINF:-1,US: FOX HD Springfield MO
-http://nitro.ltd:25461/flight/flight12/22877
-#EXTINF:-1,US: CBS HD Springfield MO
-http://nitro.ltd:25461/flight/flight12/13118
-#EXTINF:-1,US: ABC HD St Louis MO
-http://nitro.ltd:25461/flight/flight12/37787
-#EXTINF:-1,US: NBC HD St. Louis MO
-http://nitro.ltd:25461/flight/flight12/37831
-#EXTINF:-1,US: CBS HD St Louis MO
-http://nitro.ltd:25461/flight/flight12/37786
-#EXTINF:-1,US: FOX HD St Louis MO
-http://nitro.ltd:25461/flight/flight12/38381
-#EXTINF:-1,US: CBS HD ST Petersburg FL
-http://nitro.ltd:25461/flight/flight12/38373
-#EXTINF:-1,US: CW HD St. Petersburg
-http://nitro.ltd:25461/flight/flight12/22890
-#EXTINF:-1,US: FOX HD Syracuse NY
-http://nitro.ltd:25461/flight/flight12/38406
-#EXTINF:-1,US: CBS HD Syracuse NY
-http://nitro.ltd:25461/flight/flight12/38374
-#EXTINF:-1,US: FOX HD Tacoma
-http://nitro.ltd:25461/flight/flight12/11700
-#EXTINF:-1,US: CBS HD Tallahasee FL
-http://nitro.ltd:25461/flight/flight12/41493
-#EXTINF:-1,US: FOX HD Tallahassee FL
-http://nitro.ltd:25461/flight/flight12/22878
-#EXTINF:-1,US: NBC HD Tampa Bay FL
-http://nitro.ltd:25461/flight/flight12/38450
-#EXTINF:-1,US: ABC HD Tampa Bay FL
-http://nitro.ltd:25461/flight/flight12/19820
-#EXTINF:-1,US: CBS HD Tampa Bay FL
-http://nitro.ltd:25461/flight/flight12/19861
-#EXTINF:-1,US: FOX HD Tampa Bay FL
-http://nitro.ltd:25461/flight/flight12/11682
-#EXTINF:-1,US: NBC HD Temple TX
-http://nitro.ltd:25461/flight/flight12/37832
-#EXTINF:-1,US: CBS HD Toledo OH
-http://nitro.ltd:25461/flight/flight12/12548
-#EXTINF:-1,US: FOX HD Toledo OH
-http://nitro.ltd:25461/flight/flight12/38407
-#EXTINF:-1,US: CBS HD Tucson AZ
-http://nitro.ltd:25461/flight/flight12/12545
-#EXTINF:-1,US: FOX HD Tucson AZ
-http://nitro.ltd:25461/flight/flight12/22879
-#EXTINF:-1,US: NBC HD Tucson AZ
-http://nitro.ltd:25461/flight/flight12/38432
-#EXTINF:-1,US: CBS HD Tulsa OK
-http://nitro.ltd:25461/flight/flight12/38324
-#EXTINF:-1,US: FOX HD Tulsa OK
-http://nitro.ltd:25461/flight/flight12/22880
-#EXTINF:-1,US: NBC HD Tulsa OK
-http://nitro.ltd:25461/flight/flight12/37828
-#EXTINF:-1,US: FOX HD Tyler TX
-http://nitro.ltd:25461/flight/flight12/22881
-#EXTINF:-1,US: NBC HD Tyler TX
-http://nitro.ltd:25461/flight/flight12/38421
-#EXTINF:-1,US: FOX HD Virginia Beach VA
-http://nitro.ltd:25461/flight/flight12/37863
-#EXTINF:-1,US: CBS HD Waco TX
-http://nitro.ltd:25461/flight/flight12/12533
-#EXTINF:-1,US: FOX HD Waco TX
-http://nitro.ltd:25461/flight/flight12/37864
-#EXTINF:-1,US: ABC HD Washington DC
-http://nitro.ltd:25461/flight/flight12/37917
-#EXTINF:-1,US: CBS HD Washington DC
-http://nitro.ltd:25461/flight/flight12/19862
-#EXTINF:-1,US: Fox  HD  Washington DC
-http://nitro.ltd:25461/flight/flight12/25038
-#EXTINF:-1,US: NBC HD Washington DC
-http://nitro.ltd:25461/flight/flight12/11701
-#EXTINF:-1,US: NBC HD Waterloo IA
-http://nitro.ltd:25461/flight/flight12/37810
-#EXTINF:-1,US: FOX HD Waterville
-http://nitro.ltd:25461/flight/flight12/22866
-#EXTINF:-1,US: News 12 Westchester
-http://nitro.ltd:25461/flight/flight12/18526
-#EXTINF:-1,US: CBS HD West Palm Beach FL
-http://nitro.ltd:25461/flight/flight12/38365
-#EXTINF:-1,US: FOX HD West Palm Beach FL
-http://nitro.ltd:25461/flight/flight12/38403
-#EXTINF:-1,US: NBC HD West Palm Beach FL
-http://nitro.ltd:25461/flight/flight12/37816
-#EXTINF:-1,US: WGN AMERICA
-http://nitro.ltd:25461/flight/flight12/21780
-#EXTINF:-1,US: WGN- TV
-http://nitro.ltd:25461/flight/flight12/40861
-#EXTINF:-1,US: CBS HD Wichita KS
-http://nitro.ltd:25461/flight/flight12/12542
-#EXTINF:-1,US: FOX HD Wichita KS
-http://nitro.ltd:25461/flight/flight12/22882
-#EXTINF:-1,US: CBS HD Wilmington NC
-http://nitro.ltd:25461/flight/flight12/37779
-#EXTINF:-1,US: NBC HD Wilmington NC
-http://nitro.ltd:25461/flight/flight12/37780
-#EXTINF:-1,US: WPIX11 HD NY
-http://nitro.ltd:25461/flight/flight12/22964
-#EXTINF:-1,US: CBS HD Yakima WA
-http://nitro.ltd:25461/flight/flight12/38320
-#EXTINF:-1,US: CBS HD Youngstown OH
-http://nitro.ltd:25461/flight/flight12/38357
-#EXTINF:-1,US: NBC HD Youngstown OH
-http://nitro.ltd:25461/flight/flight12/37778
-#EXTINF:-1,US: FOX HD Youngstown OH
-http://nitro.ltd:25461/flight/flight12/38409
-#EXTINF:-1,US: CNN HD
-http://nitro.ltd:25461/flight/flight12/11664
-#EXTINF:-1,US: CNN HD (alt)
-http://nitro.ltd:25461/flight/flight12/21779
-#EXTINF:-1,US: CNN Latin
-http://nitro.ltd:25461/flight/flight12/40917
-#EXTINF:-1,US: CNBC HD
-http://nitro.ltd:25461/flight/flight12/41549
-#EXTINF:-1,US: Fox News HD 
-http://nitro.ltd:25461/flight/flight12/21783
-#EXTINF:-1,US: Fox News 720
-http://nitro.ltd:25461/flight/flight12/11672
-#EXTINF:-1,US: Fox Business Network 720
-http://nitro.ltd:25461/flight/flight12/11666
-#EXTINF:-1,US: Fox Business Net (Backup)
-http://nitro.ltd:25461/flight/flight12/41604
-#EXTINF:-1,US: MSNBC HD 1080
-http://nitro.ltd:25461/flight/flight12/21784
-#EXTINF:-1,US: MSNBC 720
-http://nitro.ltd:25461/flight/flight12/11674
-#EXTINF:-1,US: C-SPAN 1 HD
-http://nitro.ltd:25461/flight/flight12/28566
-#EXTINF:-1,US: C-SPAN 2 HD
-http://nitro.ltd:25461/flight/flight12/28565
-#EXTINF:-1,US: C-SPAN 3 HD
-http://nitro.ltd:25461/flight/flight12/28564
-#EXTINF:-1,US: CNBC WORLD
-http://nitro.ltd:25461/flight/flight12/11754
-#EXTINF:-1,US: Cheddar Buisness
-http://nitro.ltd:25461/flight/flight12/40916
-#EXTINF:-1,US: HLN 720
-http://nitro.ltd:25461/flight/flight12/19680
-#EXTINF:-1,US: LOCALNOW
-http://nitro.ltd:25461/flight/flight12/40920
-#EXTINF:-1,US: NECN HD
-http://nitro.ltd:25461/flight/flight12/6068
-#EXTINF:-1,US: NECN
-http://nitro.ltd:25461/flight/flight12/31769
-#EXTINF:-1,US: NEWSY
-http://nitro.ltd:25461/flight/flight12/40892
-#EXTINF:-1,US: One America News Network OAn
-http://nitro.ltd:25461/flight/flight12/35236
-#EXTINF:-1,US: RT America HD
-http://nitro.ltd:25461/flight/flight12/12212
-#EXTINF:-1,US: TRT World FHD
-http://nitro.ltd:25461/flight/flight12/28535
-#EXTINF:-1,US: AccuWeather
-http://nitro.ltd:25461/flight/flight12/41410
-#EXTINF:-1,US: The Weather Channel HD
-http://nitro.ltd:25461/flight/flight12/18454
-#EXTINF:-1,US: Weather Nation
-http://nitro.ltd:25461/flight/flight12/36537
-#EXTINF:-1,US: Cheddar News
-http://nitro.ltd:25461/flight/flight12/41752
-#EXTINF:-1,US: CNN International
-http://nitro.ltd:25461/flight/flight12/41753
-#EXTINF:-1,US: ATG Live
-http://nitro.ltd:25461/flight/flight12/38598
-#EXTINF:-1,US: Bein Sports 1
-http://nitro.ltd:25461/flight/flight12/15178
-#EXTINF:-1,US: Bein Sports 10
-http://nitro.ltd:25461/flight/flight12/15169
-#EXTINF:-1,US: Bein Sports 2
-http://nitro.ltd:25461/flight/flight12/15177
-#EXTINF:-1,US: Bein Sports 3
-http://nitro.ltd:25461/flight/flight12/15176
-#EXTINF:-1,US: Bein Sports 4
-http://nitro.ltd:25461/flight/flight12/15175
-#EXTINF:-1,US: Bein Sports 5
-http://nitro.ltd:25461/flight/flight12/15174
-#EXTINF:-1,US: Bein Sports 6
-http://nitro.ltd:25461/flight/flight12/15173
-#EXTINF:-1,US: Bein Sports 7
-http://nitro.ltd:25461/flight/flight12/15172
-#EXTINF:-1,US: Bein Sports 8
-http://nitro.ltd:25461/flight/flight12/15171
-#EXTINF:-1,US: Bein Sports 9
-http://nitro.ltd:25461/flight/flight12/15170
-#EXTINF:-1,US: Coral TV
-http://nitro.ltd:25461/flight/flight12/38599
-#EXTINF:-1,US: Kanal 75 INT
-http://nitro.ltd:25461/flight/flight12/38597
-#EXTINF:-1,US: Ladbrokes
-http://nitro.ltd:25461/flight/flight12/38600
-#EXTINF:-1,US: SIS One
-http://nitro.ltd:25461/flight/flight12/40956
-#EXTINF:-1,US: SIS Racing
-http://nitro.ltd:25461/flight/flight12/40955
-#EXTINF:-1,US: SIS Two
-http://nitro.ltd:25461/flight/flight12/40954
-#EXTINF:-1,US: TVG
-http://nitro.ltd:25461/flight/flight12/35238
-#EXTINF:-1,US: TVG 2
-http://nitro.ltd:25461/flight/flight12/35239
-#EXTINF:-1,US: ESPN HD
-http://nitro.ltd:25461/flight/flight12/7508
-#EXTINF:-1,US: ESPN 2 720
-http://nitro.ltd:25461/flight/flight12/11556
-#EXTINF:-1,US: ESPN Goal Line HD
-http://nitro.ltd:25461/flight/flight12/19850
-#EXTINF:-1,US: ESPN U HD
-http://nitro.ltd:25461/flight/flight12/3735
-#EXTINF:-1,US: ESPN News HD
-http://nitro.ltd:25461/flight/flight12/41561
-#EXTINF:-1,US: ESPN News (back up)
-http://nitro.ltd:25461/flight/flight12/41562
-#EXTINF:-1,US: Fox Sports 1 HD 1080
-http://nitro.ltd:25461/flight/flight12/5505
-#EXTINF:-1,US: Fox Sports 1 720
-http://nitro.ltd:25461/flight/flight12/11557
-#EXTINF:-1,US: Fox Sports 2 HD 1080
-http://nitro.ltd:25461/flight/flight12/5506
-#EXTINF:-1,US: Fox Sports 2 720
-http://nitro.ltd:25461/flight/flight12/11559
-#EXTINF:-1,US: Golf Channel HD
-http://nitro.ltd:25461/flight/flight12/41551
-#EXTINF:-1,US: NBCSN
-http://nitro.ltd:25461/flight/flight12/41550
-#EXTINF:-1,US: NBC SN 720
-http://nitro.ltd:25461/flight/flight12/12597
-#EXTINF:-1,US: ACC Network
-http://nitro.ltd:25461/flight/flight12/40837
-#EXTINF:-1,US: ACC Network (backup)
-http://nitro.ltd:25461/flight/flight12/41606
-#EXTINF:-1,US: Sportsnet LA
-http://nitro.ltd:25461/flight/flight12/41829
-#EXTINF:-1,US: ATT Sportsnet SW-
-http://nitro.ltd:25461/flight/flight12/36944
-#EXTINF:-1,US: ATT Sportsnet SW Altr
-http://nitro.ltd:25461/flight/flight12/36945
-#EXTINF:-1,US: NBA TV FHD
-http://nitro.ltd:25461/flight/flight12/41386
-#EXTINF:-1,US: Fox Sports Southwest HD
-http://nitro.ltd:25461/flight/flight12/5940
-#EXTINF:-1,US: Fox Sports South HD
-http://nitro.ltd:25461/flight/flight12/5941
-#EXTINF:-1,US: Fox Sports North HD
-http://nitro.ltd:25461/flight/flight12/5942
-#EXTINF:-1,US: Fox Sports Florida HD
-http://nitro.ltd:25461/flight/flight12/5943
-#EXTINF:-1,US: Fox Sports Arizona HD
-http://nitro.ltd:25461/flight/flight12/5944
-#EXTINF:-1,US: Fox Sports Sun HD
-http://nitro.ltd:25461/flight/flight12/5945
-#EXTINF:-1,US: Fox Sports West
-http://nitro.ltd:25461/flight/flight12/6015
-#EXTINF:-1,US: Fox Sports Ohio HD
-http://nitro.ltd:25461/flight/flight12/6016
-#EXTINF:-1,US: Fox Sportstime Ohio HD
-http://nitro.ltd:25461/flight/flight12/6017
-#EXTINF:-1,US: Fox Sports Southwest+ HD
-http://nitro.ltd:25461/flight/flight12/6018
-#EXTINF:-1,US: Fox Sports Prime Ticket 1 HD
-http://nitro.ltd:25461/flight/flight12/6030
-#EXTINF:-1,US: Fox Sports Midwest HD
-http://nitro.ltd:25461/flight/flight12/6031
-#EXTINF:-1,US: Fox Sports Tennessee HD
-http://nitro.ltd:25461/flight/flight12/6032
-#EXTINF:-1,US: Fox Sports San Diego HD
-http://nitro.ltd:25461/flight/flight12/6034
-#EXTINF:-1,US: Fox Sports Detroit HD
-http://nitro.ltd:25461/flight/flight12/6037
-#EXTINF:-1,US: Fox Sports Southeast HD
-http://nitro.ltd:25461/flight/flight12/6038
-#EXTINF:-1,US: Fox Sports Wisconsin HD
-http://nitro.ltd:25461/flight/flight12/6040
-#EXTINF:-1,US: Fox Sports Indiana Plus HD
-http://nitro.ltd:25461/flight/flight12/19645
-#EXTINF:-1,US: Fox Soccer Plus HD.
-http://nitro.ltd:25461/flight/flight12/19851
-#EXTINF:-1,US: Fox Sports Wisconsin Plus HD
-http://nitro.ltd:25461/flight/flight12/19858
-#EXTINF:-1,US: FoxNet East HD
-http://nitro.ltd:25461/flight/flight12/19866
-#EXTINF:-1,US: Fox Sports Carolinas HD
-http://nitro.ltd:25461/flight/flight12/19868
-#EXTINF:-1,US: Fox Sports West+ HD
-http://nitro.ltd:25461/flight/flight12/19869
-#EXTINF:-1,US: Fox Sports Yes Network HD
-http://nitro.ltd:25461/flight/flight12/6043
-#EXTINF:-1,US: Eleven Sports Network HD
-http://nitro.ltd:25461/flight/flight12/5886
-#EXTINF:-1,US: NBCSN HD Boston
-http://nitro.ltd:25461/flight/flight12/19651
-#EXTINF:-1,US: NBCSN Boston
-http://nitro.ltd:25461/flight/flight12/12192
-#EXTINF:-1,US: NBC Sports Philadelphia Plus HD
-http://nitro.ltd:25461/flight/flight12/19675
-#EXTINF:-1,US: PAC-12 Washington
-http://nitro.ltd:25461/flight/flight12/5252
-#EXTINF:-1,US: PAC-12 Oregon
-http://nitro.ltd:25461/flight/flight12/5253
-#EXTINF:-1,US: PAC-12 Moutain
-http://nitro.ltd:25461/flight/flight12/5254
-#EXTINF:-1,US: PAC-12 Los Angeles
-http://nitro.ltd:25461/flight/flight12/5255
-#EXTINF:-1,US: PAC-12 Bay Area
-http://nitro.ltd:25461/flight/flight12/5256
-#EXTINF:-1,US: PAC-12 Arizona
-http://nitro.ltd:25461/flight/flight12/5257
-#EXTINF:-1,US: PAC- National
-http://nitro.ltd:25461/flight/flight12/5258
-#EXTINF:-1,US: Longhorn Network HD
-http://nitro.ltd:25461/flight/flight12/5310
-#EXTINF:-1,US: NESN Plus HD
-http://nitro.ltd:25461/flight/flight12/5436
-#EXTINF:-1,US: NESN HD Boston
-http://nitro.ltd:25461/flight/flight12/5458
-#EXTINF:-1,US: CBS Sports Network HD
-http://nitro.ltd:25461/flight/flight12/3681
-#EXTINF:-1,US: CSN BayArea HD
-http://nitro.ltd:25461/flight/flight12/6044
-#EXTINF:-1,US: CSN SN California HD
-http://nitro.ltd:25461/flight/flight12/19650
-#EXTINF:-1,US: CSN SN Chicago HD
-http://nitro.ltd:25461/flight/flight12/19652
-#EXTINF:-1,US: CSN Washington D.C.
-http://nitro.ltd:25461/flight/flight12/23062
-#EXTINF:-1,US: CSN Chicago Plus HD
-http://nitro.ltd:25461/flight/flight12/6047
-#EXTINF:-1,US: CSN Philly HD
-http://nitro.ltd:25461/flight/flight12/6050
-#EXTINF:-1,US: CSN California 720
-http://nitro.ltd:25461/flight/flight12/6051
-#EXTINF:-1,US: CSN Northwest HD
-http://nitro.ltd:25461/flight/flight12/6052
-#EXTINF:-1,US: Olympic Channel
-http://nitro.ltd:25461/flight/flight12/5487
-#EXTINF:-1,US: BTN HD
-http://nitro.ltd:25461/flight/flight12/6076
-#EXTINF:-1,US: SEC 1080
-http://nitro.ltd:25461/flight/flight12/41603
-#EXTINF:-1,US: Sec Network 720
-http://nitro.ltd:25461/flight/flight12/11572
-#EXTINF:-1,US: Fox College Sports Pacific
-http://nitro.ltd:25461/flight/flight12/12593
-#EXTINF:-1,US: Fox College Sports Central
-http://nitro.ltd:25461/flight/flight12/12595
-#EXTINF:-1,US: Fox College Sports Atlantic
-http://nitro.ltd:25461/flight/flight12/12596
-#EXTINF:-1,US: MSG Plus HD
-http://nitro.ltd:25461/flight/flight12/16342
-#EXTINF:-1,US: Fight Network HD
-http://nitro.ltd:25461/flight/flight12/15167
-#EXTINF:-1,US: MSG 2 Network HD
-http://nitro.ltd:25461/flight/flight12/16343
-#EXTINF:-1,US: MSG Network HD
-http://nitro.ltd:25461/flight/flight12/16344
-#EXTINF:-1,US: MSG 2 Plus HD
-http://nitro.ltd:25461/flight/flight12/16772
-#EXTINF:-1,US: Sportsman Channel HD
-http://nitro.ltd:25461/flight/flight12/18452
-#EXTINF:-1,US: Tennis Channel HD
-http://nitro.ltd:25461/flight/flight12/13119
-#EXTINF:-1,US: Stadium HD
-http://nitro.ltd:25461/flight/flight12/19721
-#EXTINF:-1,US: Stadium 3 HD
-http://nitro.ltd:25461/flight/flight12/19722
-#EXTINF:-1,US: Stadium 2 HD
-http://nitro.ltd:25461/flight/flight12/19723
-#EXTINF:-1,US: Sports Illustrated TV HD
-http://nitro.ltd:25461/flight/flight12/36950
-#EXTINF:-1,US: Stadium 1 HD
-http://nitro.ltd:25461/flight/flight12/19724
-#EXTINF:-1,US: SNY HD
-http://nitro.ltd:25461/flight/flight12/20844
-#EXTINF:-1,US: VSiN HD
-http://nitro.ltd:25461/flight/flight12/36948
-#EXTINF:-1,US: WWE HD
-http://nitro.ltd:25461/flight/flight12/3653
-#EXTINF:-1,US: Univision (23-Dallas)
-http://nitro.ltd:25461/flight/flight12/40945
-#EXTINF:-1,US: Univision (34-Atlanta)
-http://nitro.ltd:25461/flight/flight12/40940
-#EXTINF:-1,US: Univision 34-Los Angeles)
-http://nitro.ltd:25461/flight/flight12/40946
-#EXTINF:-1,US: Univision (66-Chicago)
-http://nitro.ltd:25461/flight/flight12/40943
-#EXTINF:-1,US: Univision Now: UnivisionKAKW (62-AUS:tin)
-http://nitro.ltd:25461/flight/flight12/40948
-#EXTINF:-1,US:  Univision (21-Fresno)
-http://nitro.ltd:25461/flight/flight12/40947
-#EXTINF:-1,US: Univision (45-HoUS:ton)
-http://nitro.ltd:25461/flight/flight12/40944
-#EXTINF:-1,US: Univision (23-Fort Lauderdale)
-http://nitro.ltd:25461/flight/flight12/40942
-#EXTINF:-1,US: Univision (61-Cleveland)
-http://nitro.ltd:25461/flight/flight12/40941
-#EXTINF:-1,US: Univision (41-Paterson)
-http://nitro.ltd:25461/flight/flight12/40939
-#EXTINF:-1,US: NFL Network HD 1080
-http://nitro.ltd:25461/flight/flight12/11545
-#EXTINF:-1,US: NFL Network 720
-http://nitro.ltd:25461/flight/flight12/12184
-#EXTINF:-1,US: NFL NOW HD
-http://nitro.ltd:25461/flight/flight12/5311
-#EXTINF:-1,US: FNTSY Network HD
-http://nitro.ltd:25461/flight/flight12/15166
-#EXTINF:-1,US: NFL Redzone HD
-http://nitro.ltd:25461/flight/flight12/3669
-#EXTINF:-1,US: NFL Redzone HD (backup)
-http://nitro.ltd:25461/flight/flight12/17135
-#EXTINF:-1,US: NFL Sunday Ticket 1 HD Live
-http://nitro.ltd:25461/flight/flight12/9597
-#EXTINF:-1,US: NFL Sunday Ticket 2 HD Live
-http://nitro.ltd:25461/flight/flight12/9596
-#EXTINF:-1,US: NFL Sunday Ticket 3 HD Live
-http://nitro.ltd:25461/flight/flight12/9595
-#EXTINF:-1,US: NFL Sunday Ticket 4 HD Live
-http://nitro.ltd:25461/flight/flight12/9594
-#EXTINF:-1,US: NFL Sunday Ticket 5 HD Live
-http://nitro.ltd:25461/flight/flight12/9593
-#EXTINF:-1,US: NFL Sunday Ticket 6 HD Live
-http://nitro.ltd:25461/flight/flight12/9592
-#EXTINF:-1,US: NFL Sunday Ticket 7 HD Live
-http://nitro.ltd:25461/flight/flight12/9591
-#EXTINF:-1,US: NFL Sunday Ticket 8 HD Live
-http://nitro.ltd:25461/flight/flight12/9590
-#EXTINF:-1,US: NFL Sunday Ticket 9 HD Live
-http://nitro.ltd:25461/flight/flight12/9589
-#EXTINF:-1,US: NFL Sunday Ticket 10 HD Live
-http://nitro.ltd:25461/flight/flight12/9588
-#EXTINF:-1,US: NFL Sunday Ticket 11 HD Live
-http://nitro.ltd:25461/flight/flight12/9587
-#EXTINF:-1,US: NFL Sunday Ticket 12 HD Live
-http://nitro.ltd:25461/flight/flight12/9586
-#EXTINF:-1,US: NFL Sunday Ticket 13 HD Live
-http://nitro.ltd:25461/flight/flight12/9585
-#EXTINF:-1,US: NFL Sunday Ticket 14 HD Live
-http://nitro.ltd:25461/flight/flight12/9584
-#EXTINF:-1,US:ESPN COLLEGE EXTRA 1 HD
-http://nitro.ltd:25461/flight/flight12/23529
-#EXTINF:-1,US:ESPN COLLEGE EXTRA 2 HD
-http://nitro.ltd:25461/flight/flight12/23528
-#EXTINF:-1,US:ESPN COLLEGE EXTRA 3 HD
-http://nitro.ltd:25461/flight/flight12/23527
-#EXTINF:-1,US:ESPN COLLEGE EXTRA 4 HD
-http://nitro.ltd:25461/flight/flight12/23526
-#EXTINF:-1,US:ESPN COLLEGE EXTRA 5 HD
-http://nitro.ltd:25461/flight/flight12/23525
-#EXTINF:-1,US:ESPN COLLEGE EXTRA 6 HD
-http://nitro.ltd:25461/flight/flight12/23524
-#EXTINF:-1,US: NHL Network HD
-http://nitro.ltd:25461/flight/flight12/41548
-#EXTINF:-1,US: NHL 30 Dallas Stars
-http://nitro.ltd:25461/flight/flight12/13223
-#EXTINF:-1,US: NHL 29 Buffalo Sabres
-http://nitro.ltd:25461/flight/flight12/13224
-#EXTINF:-1,US: NHL 28 Boston Bruins
-http://nitro.ltd:25461/flight/flight12/13225
-#EXTINF:-1,US: NHL 27 Los Angeles Kings
-http://nitro.ltd:25461/flight/flight12/13226
-#EXTINF:-1,US: NHL 26 Calgary Flames
-http://nitro.ltd:25461/flight/flight12/13227
-#EXTINF:-1,US: NHL 25 Philadelphia Flyers
-http://nitro.ltd:25461/flight/flight12/13228
-#EXTINF:-1,US: NHL 24 Winnipeg Jets
-http://nitro.ltd:25461/flight/flight12/13229
-#EXTINF:-1,US: NHL 23 Florida Panthers
-http://nitro.ltd:25461/flight/flight12/13230
-#EXTINF:-1,US: NHL 22 Pittsburgh Penguins
-http://nitro.ltd:25461/flight/flight12/13231
-#EXTINF:-1,US: NHL 21 New Jersey Devils
-http://nitro.ltd:25461/flight/flight12/13232
-#EXTINF:-1,US: NHL 20 Anaheim Ducks
-http://nitro.ltd:25461/flight/flight12/13233
-#EXTINF:-1,US: NHL 19 San Jose Sharks
-http://nitro.ltd:25461/flight/flight12/13234
-#EXTINF:-1,US: NHL 18 Vancouver Canucks
-http://nitro.ltd:25461/flight/flight12/13235
-#EXTINF:-1,US: NHL 17 Edmonton_Oilers
-http://nitro.ltd:25461/flight/flight12/13236
-#EXTINF:-1,US: NHL 16 St Louis Blues
-http://nitro.ltd:25461/flight/flight12/13237
-#EXTINF:-1,US: NHL 15 Arizona Coyotes
-http://nitro.ltd:25461/flight/flight12/13238
-#EXTINF:-1,US: NHL 14 Nashville Predators
-http://nitro.ltd:25461/flight/flight12/13239
-#EXTINF:-1,US: NHL 13 Carolina Hurricanes
-http://nitro.ltd:25461/flight/flight12/13240
-#EXTINF:-1,US: NHL 12 Washington Capital
-http://nitro.ltd:25461/flight/flight12/13241
-#EXTINF:-1,US: NHL 11 Tampa Bay Lightning
-http://nitro.ltd:25461/flight/flight12/13242
-#EXTINF:-1,US: NHL 10 Montreal Canadiens
-http://nitro.ltd:25461/flight/flight12/13243
-#EXTINF:-1,US: NHL 9 Ottawa Senators
-http://nitro.ltd:25461/flight/flight12/13244
-#EXTINF:-1,US: NHL 8 Chicago Blackhawks
-http://nitro.ltd:25461/flight/flight12/13245
-#EXTINF:-1,US: NHL 7 Toronto Maple Leafs
-http://nitro.ltd:25461/flight/flight12/13246
-#EXTINF:-1,US: NHL 6 New York Rangers
-http://nitro.ltd:25461/flight/flight12/13247
-#EXTINF:-1,US: NHL 5 Minnesota Wild
-http://nitro.ltd:25461/flight/flight12/13248
-#EXTINF:-1,US: NHL 4 Columbus Blue Jackets
-http://nitro.ltd:25461/flight/flight12/13249
-#EXTINF:-1,US: NHL 3 New York Islanders
-http://nitro.ltd:25461/flight/flight12/13250
-#EXTINF:-1,US: NHL 2 Colorado Avalanche
-http://nitro.ltd:25461/flight/flight12/13251
-#EXTINF:-1,US: NHL 1 Detroit Red Wings
-http://nitro.ltd:25461/flight/flight12/13252
-#EXTINF:-1,US: NHL 31 Vegas Golden Knights
-http://nitro.ltd:25461/flight/flight12/41498
-#EXTINF:-1,US: NBA TV HD
-http://nitro.ltd:25461/flight/flight12/41540
-#EXTINF:-1,US: NBA Houston Rockets
-http://nitro.ltd:25461/flight/flight12/41598
-#EXTINF:-1,US: MLB Network HD.
-http://nitro.ltd:25461/flight/flight12/12211
-#EXTINF:-1,US: MLB ARIZONA
-http://nitro.ltd:25461/flight/flight12/19081
-#EXTINF:-1,US: MLB ATLANTA
-http://nitro.ltd:25461/flight/flight12/19080
-#EXTINF:-1,US: MLB BALTIMORE
-http://nitro.ltd:25461/flight/flight12/19102
-#EXTINF:-1,US: MLB BOSTON
-http://nitro.ltd:25461/flight/flight12/19101
-#EXTINF:-1,US: MLB CHICAGO
-http://nitro.ltd:25461/flight/flight12/19100
-#EXTINF:-1,US: MLB CINCINNATI
-http://nitro.ltd:25461/flight/flight12/19082
-#EXTINF:-1,US: MLB CLEVELAND
-http://nitro.ltd:25461/flight/flight12/19099
-#EXTINF:-1,US: MLB COLORADO
-http://nitro.ltd:25461/flight/flight12/19079
-#EXTINF:-1,US: MLB CHICAGO WS
-http://nitro.ltd:25461/flight/flight12/19078
-#EXTINF:-1,US: MLB DETROIT
-http://nitro.ltd:25461/flight/flight12/19098
-#EXTINF:-1,US: MLB HOUSTON
-http://nitro.ltd:25461/flight/flight12/19097
-#EXTINF:-1,US: MLB KANSAS CITY
-http://nitro.ltd:25461/flight/flight12/19084
-#EXTINF:-1,US: MLB LA ANGELS
-http://nitro.ltd:25461/flight/flight12/19096
-#EXTINF:-1,US: MLB MIAMI
-http://nitro.ltd:25461/flight/flight12/19095
-#EXTINF:-1,US: MLB MILWAUKEE
-http://nitro.ltd:25461/flight/flight12/19083
-#EXTINF:-1,US: MLB MINNESOTA
-http://nitro.ltd:25461/flight/flight12/19094
-#EXTINF:-1,US: MLB NYM
-http://nitro.ltd:25461/flight/flight12/19093
-#EXTINF:-1,US: MLB NYY
-http://nitro.ltd:25461/flight/flight12/19092
-#EXTINF:-1,US: MLB OAKLAND
-http://nitro.ltd:25461/flight/flight12/19091
-#EXTINF:-1,US: MLB PHILADELPHIA
-http://nitro.ltd:25461/flight/flight12/21755
-#EXTINF:-1,US: MLB PITTSBURGH
-http://nitro.ltd:25461/flight/flight12/19090
-#EXTINF:-1,US: MLB SAN DIEGO
-http://nitro.ltd:25461/flight/flight12/19076
-#EXTINF:-1,US: MLB SAN FRANCISCO
-http://nitro.ltd:25461/flight/flight12/21754
-#EXTINF:-1,US: MLB SEATTLE
-http://nitro.ltd:25461/flight/flight12/19089
-#EXTINF:-1,US: MLB TAMPA BAY
-http://nitro.ltd:25461/flight/flight12/19087
-#EXTINF:-1,US: MLB TEXAS
-http://nitro.ltd:25461/flight/flight12/19075
-#EXTINF:-1,US: MLB TORONTO
-http://nitro.ltd:25461/flight/flight12/19086
-#EXTINF:-1,US: MLB WASHINGTON
-http://nitro.ltd:25461/flight/flight12/19085
-#EXTINF:-1,US: MLB ST. LOUIS
-http://nitro.ltd:25461/flight/flight12/19088
-#EXTINF:-1,US: MLB LAD
-http://nitro.ltd:25461/flight/flight12/19077
-#EXTINF:-1,US: MLB 1
-http://nitro.ltd:25461/flight/flight12/19109
-#EXTINF:-1,US: MLB 2
-http://nitro.ltd:25461/flight/flight12/19108
-#EXTINF:-1,US: MLB 3
-http://nitro.ltd:25461/flight/flight12/19107
-#EXTINF:-1,US: MLB 4
-http://nitro.ltd:25461/flight/flight12/19106
-#EXTINF:-1,US: MLB 5
-http://nitro.ltd:25461/flight/flight12/19105
-#EXTINF:-1,US: MLB 6
-http://nitro.ltd:25461/flight/flight12/19104
-#EXTINF:-1,US: MLB 7
-http://nitro.ltd:25461/flight/flight12/19103
-#EXTINF:-1,US: MLB Arena 1
-http://nitro.ltd:25461/flight/flight12/36348
-#EXTINF:-1,US: MLB Arena 2
-http://nitro.ltd:25461/flight/flight12/36339
-#EXTINF:-1,US: MLB Arena 3
-http://nitro.ltd:25461/flight/flight12/36338
-#EXTINF:-1,US: MLB Arena 4
-http://nitro.ltd:25461/flight/flight12/36337
-#EXTINF:-1,US: MLB Arena 5
-http://nitro.ltd:25461/flight/flight12/36336
-#EXTINF:-1,US: MLB Arena 6
-http://nitro.ltd:25461/flight/flight12/36335
-#EXTINF:-1,US: MLB Arena 7
-http://nitro.ltd:25461/flight/flight12/36334
-#EXTINF:-1,US: MLB Arena 8
-http://nitro.ltd:25461/flight/flight12/36333
-#EXTINF:-1,US: MLB Arena 9
-http://nitro.ltd:25461/flight/flight12/36332
-#EXTINF:-1,US: MLB Arena 10
-http://nitro.ltd:25461/flight/flight12/36347
-#EXTINF:-1,US: MLB Arena 11
-http://nitro.ltd:25461/flight/flight12/36346
-#EXTINF:-1,US: MLB Arena 12
-http://nitro.ltd:25461/flight/flight12/36345
-#EXTINF:-1,US: MLB Arena 13
-http://nitro.ltd:25461/flight/flight12/36344
-#EXTINF:-1,US: MLB Arena 14
-http://nitro.ltd:25461/flight/flight12/36343
-#EXTINF:-1,US: MLB Arena 15
-http://nitro.ltd:25461/flight/flight12/36342
-#EXTINF:-1,US: MLB Arena 16
-http://nitro.ltd:25461/flight/flight12/36341
-#EXTINF:-1,US: MLB Arena 17
-http://nitro.ltd:25461/flight/flight12/36340
-#EXTINF:-1,US: MLB STRIKEZONE Tue & Thursdays
-http://nitro.ltd:25461/flight/flight12/11804
-#EXTINF:-1,US: MLB Extra Innings 03
-http://nitro.ltd:25461/flight/flight12/7818
-#EXTINF:-1,US: Fox Soccer Plus HD
-http://nitro.ltd:25461/flight/flight12/3665
-#EXTINF:-1,US: MLS 1
-http://nitro.ltd:25461/flight/flight12/23690
-#EXTINF:-1,US: MLS 2
-http://nitro.ltd:25461/flight/flight12/23689
-#EXTINF:-1,US: MLS 3
-http://nitro.ltd:25461/flight/flight12/23688
-#EXTINF:-1,US: MLS 4
-http://nitro.ltd:25461/flight/flight12/23687
-#EXTINF:-1,US: MLS 5
-http://nitro.ltd:25461/flight/flight12/23686
-#EXTINF:-1,US: MLS 6
-http://nitro.ltd:25461/flight/flight12/23685
-#EXTINF:-1,US: MLS 7
-http://nitro.ltd:25461/flight/flight12/23684
-#EXTINF:-1,US: MLS 8
-http://nitro.ltd:25461/flight/flight12/23683
-#EXTINF:-1,US: MLS 9
-http://nitro.ltd:25461/flight/flight12/23682
-#EXTINF:-1,US: MLS 10
-http://nitro.ltd:25461/flight/flight12/23681
-#EXTINF:-1,US: MLS 11
-http://nitro.ltd:25461/flight/flight12/23680
-#EXTINF:-1,US: MLS 12
-http://nitro.ltd:25461/flight/flight12/23679
-#EXTINF:-1,US: MLS 13
-http://nitro.ltd:25461/flight/flight12/23678
-#EXTINF:-1,US: MLS 14
-http://nitro.ltd:25461/flight/flight12/23677
-#EXTINF:-1,US: MLS 15
-http://nitro.ltd:25461/flight/flight12/23676
-#EXTINF:-1,US: Daystar TV
-http://nitro.ltd:25461/flight/flight12/18505
-#EXTINF:-1,US: CBN News
-http://nitro.ltd:25461/flight/flight12/18513
-#EXTINF:-1,US: ACCTV
-http://nitro.ltd:25461/flight/flight12/18515
-#EXTINF:-1,US: TBN HD (fixed)
-http://nitro.ltd:25461/flight/flight12/19893
-#EXTINF:-1,US: Yes TV
-http://nitro.ltd:25461/flight/flight12/28533
-#EXTINF:-1,US: Boomerang HD
-http://nitro.ltd:25461/flight/flight12/41560
-#EXTINF:-1,US: Cartoon Network HD
-http://nitro.ltd:25461/flight/flight12/19654
-#EXTINF:-1,US: Disney Channel HD 1080
-http://nitro.ltd:25461/flight/flight12/19683
-#EXTINF:-1,US: Disney Jr
-http://nitro.ltd:25461/flight/flight12/41566
-#EXTINF:-1,US: Disney XD 720
-http://nitro.ltd:25461/flight/flight12/5724
-#EXTINF:-1,US: Disney XD HD
-http://nitro.ltd:25461/flight/flight12/19657
-#EXTINF:-1,US: Nickelodeon
-http://nitro.ltd:25461/flight/flight12/41567
-#EXTINF:-1,US: NICK JR
-http://nitro.ltd:25461/flight/flight12/41568
-#EXTINF:-1,US: NICK TOONS
-http://nitro.ltd:25461/flight/flight12/41569
-#EXTINF:-1,US: PBS Kids HD
-http://nitro.ltd:25461/flight/flight12/37916
-#EXTINF:-1,US: Universal Kids
-http://nitro.ltd:25461/flight/flight12/3658
-#EXTINF:-1,US: Universal Kids (sprout)
-http://nitro.ltd:25461/flight/flight12/17210
-#EXTINF:-1,US:: ESPN PLUS 01 HD
-http://nitro.ltd:25461/flight/flight12/22420
-#EXTINF:-1,US:: ESPN PLUS 02 HD
-http://nitro.ltd:25461/flight/flight12/22419
-#EXTINF:-1,US:: ESPN PLUS 03 HD
-http://nitro.ltd:25461/flight/flight12/22418
-#EXTINF:-1,US:: ESPN PLUS 04 HD
-http://nitro.ltd:25461/flight/flight12/22417
-#EXTINF:-1,US:: ESPN PLUS 05 HD
-http://nitro.ltd:25461/flight/flight12/22416
-#EXTINF:-1,US:: ESPN PLUS 06 HD
-http://nitro.ltd:25461/flight/flight12/22415
-#EXTINF:-1,US:: ESPN PLUS 07 HD
-http://nitro.ltd:25461/flight/flight12/22414
-#EXTINF:-1,US:: ESPN PLUS 08 HD
-http://nitro.ltd:25461/flight/flight12/22413
-#EXTINF:-1,US:: ESPN PLUS 09 HD
-http://nitro.ltd:25461/flight/flight12/22412
-#EXTINF:-1,US:: ESPN PLUS 10 HD
-http://nitro.ltd:25461/flight/flight12/22411
-#EXTINF:-1,US:: ESPN PLUS 11 HD
-http://nitro.ltd:25461/flight/flight12/22410
-#EXTINF:-1,US:: ESPN PLUS 12 HD
-http://nitro.ltd:25461/flight/flight12/22409
-#EXTINF:-1,US:: ESPN PLUS 13 HD
-http://nitro.ltd:25461/flight/flight12/22408
-#EXTINF:-1,US:: ESPN PLUS 14 HD
-http://nitro.ltd:25461/flight/flight12/22407
-#EXTINF:-1,US:: ESPN PLUS 15 HD
-http://nitro.ltd:25461/flight/flight12/22406
-#EXTINF:-1,US:: ESPN PLUS 16 HD
-http://nitro.ltd:25461/flight/flight12/22405
-#EXTINF:-1,US:: ESPN PLUS 17 HD
-http://nitro.ltd:25461/flight/flight12/22404
-#EXTINF:-1,US:: ESPN PLUS 18 HD
-http://nitro.ltd:25461/flight/flight12/22403
-#EXTINF:-1,US:: ESPN PLUS 19 HD
-http://nitro.ltd:25461/flight/flight12/22402
-#EXTINF:-1,US:: ESPN PLUS 20 HD
-http://nitro.ltd:25461/flight/flight12/22401
-#EXTINF:-1,US: ESPN Plus 21
-http://nitro.ltd:25461/flight/flight12/41784
-#EXTINF:-1,US: ESPN Plus 22
-http://nitro.ltd:25461/flight/flight12/41785
-#EXTINF:-1,US: ESPN Plus 23
-http://nitro.ltd:25461/flight/flight12/41786
-#EXTINF:-1,US: ESPN Plus 24
-http://nitro.ltd:25461/flight/flight12/41787
-#EXTINF:-1,US: ESPN Plus 25
-http://nitro.ltd:25461/flight/flight12/41788
-#EXTINF:-1,US: ESPN Plus 26
-http://nitro.ltd:25461/flight/flight12/41789
-#EXTINF:-1,US: ESPN Plus 27
-http://nitro.ltd:25461/flight/flight12/41790
-#EXTINF:-1,US: ESPN Plus 28
-http://nitro.ltd:25461/flight/flight12/41791
-#EXTINF:-1,US: ESPN Plus 29
-http://nitro.ltd:25461/flight/flight12/41792
-#EXTINF:-1,US: ESPN Plus 31
-http://nitro.ltd:25461/flight/flight12/41794
-#EXTINF:-1,US: ESPN Plus 32
-http://nitro.ltd:25461/flight/flight12/41795
-#EXTINF:-1,US: ESPN Plus 33
-http://nitro.ltd:25461/flight/flight12/41796
-#EXTINF:-1,US: ESPN Plus 34
-http://nitro.ltd:25461/flight/flight12/41797
-#EXTINF:-1,US: ESPN Plus 35
-http://nitro.ltd:25461/flight/flight12/41798
-#EXTINF:-1,US: ESPN Plus 36
-http://nitro.ltd:25461/flight/flight12/41799
-#EXTINF:-1,US: ESPN Plus 37
-http://nitro.ltd:25461/flight/flight12/41800
-#EXTINF:-1,US: ESPN Plus 38
-http://nitro.ltd:25461/flight/flight12/41801
-#EXTINF:-1,US: ESPN Plus 39
-http://nitro.ltd:25461/flight/flight12/41802
-#EXTINF:-1,US: ESPN Plus 40
-http://nitro.ltd:25461/flight/flight12/41803
-#EXTINF:-1,US: ESPN Plus 41
-http://nitro.ltd:25461/flight/flight12/41804
-#EXTINF:-1,US: ESPN Plus 42
-http://nitro.ltd:25461/flight/flight12/41805
-#EXTINF:-1,US: ESPN Plus 43
-http://nitro.ltd:25461/flight/flight12/41806
-#EXTINF:-1,US: ESPN Plus 44
-http://nitro.ltd:25461/flight/flight12/41807
-#EXTINF:-1,US: ESPN Plus 45
-http://nitro.ltd:25461/flight/flight12/41808
-#EXTINF:-1,US: ESPN Plus 46
-http://nitro.ltd:25461/flight/flight12/41809
-#EXTINF:-1,US: ESPN Plus 47
-http://nitro.ltd:25461/flight/flight12/41810
-#EXTINF:-1,US: ESPN Plus 48
-http://nitro.ltd:25461/flight/flight12/41811
-#EXTINF:-1,US: ESPN Plus 49
-http://nitro.ltd:25461/flight/flight12/41812
-#EXTINF:-1,US: ESPN Plus 50
-http://nitro.ltd:25461/flight/flight12/41813
-#EXTINF:-1,US: ESPN Plus 51
-http://nitro.ltd:25461/flight/flight12/41814
-#EXTINF:-1,US: ESPN Plus 52
-http://nitro.ltd:25461/flight/flight12/41815
-#EXTINF:-1,US: ESPN Plus 53
-http://nitro.ltd:25461/flight/flight12/41816
-#EXTINF:-1,US: ESPN Plus 54
-http://nitro.ltd:25461/flight/flight12/41817
-#EXTINF:-1,US: ESPN Plus 55
-http://nitro.ltd:25461/flight/flight12/41818
-#EXTINF:-1,US: ESPN Plus 56
-http://nitro.ltd:25461/flight/flight12/41819
-#EXTINF:-1,US: ESPN Plus 58
-http://nitro.ltd:25461/flight/flight12/41821
-#EXTINF:-1,US: ESPN Plus 59
-http://nitro.ltd:25461/flight/flight12/41822
-#EXTINF:-1,US: ESPN Plus 60
-http://nitro.ltd:25461/flight/flight12/41823
-#EXTINF:-1,US: ESPN Plus 61
-http://nitro.ltd:25461/flight/flight12/41824
-#EXTINF:-1,US: ESPN Plus 62
-http://nitro.ltd:25461/flight/flight12/41825
-#EXTINF:-1,US: ESPN Plus 63
-http://nitro.ltd:25461/flight/flight12/41826
-#EXTINF:-1,US: ESPN Plus 64
-http://nitro.ltd:25461/flight/flight12/41827
-#EXTINF:-1,US: ESPN Plus 65
-http://nitro.ltd:25461/flight/flight12/41828
-#EXTINF:-1,US: Showtime West HD Movies
-http://nitro.ltd:25461/flight/flight12/22813
-#EXTINF:-1,US: HBO 2 HD Movies
-http://nitro.ltd:25461/flight/flight12/22823
-#EXTINF:-1,US: HBO 2 West HD Movies
-http://nitro.ltd:25461/flight/flight12/22822
-#EXTINF:-1,US: HBO Plus West HD Movies
-http://nitro.ltd:25461/flight/flight12/22821
-#EXTINF:-1,US: HBO Signature HD Movies
-http://nitro.ltd:25461/flight/flight12/22820
-#EXTINF:-1,US: Cinemax Action 2 HD Movies
-http://nitro.ltd:25461/flight/flight12/22827
-#EXTINF:-1,US: Cinemax Action East HD Movies
-http://nitro.ltd:25461/flight/flight12/22826
-#EXTINF:-1,US: Cinemax East HD Movies
-http://nitro.ltd:25461/flight/flight12/22825
-#EXTINF:-1,US: Cinemax West HD Movies
-http://nitro.ltd:25461/flight/flight12/22824
-#EXTINF:-1,US: MoreMax HD Movies
-http://nitro.ltd:25461/flight/flight12/22818
-#EXTINF:-1,US: MovieMax HD Movies
-http://nitro.ltd:25461/flight/flight12/22817
-#EXTINF:-1,US: OuterMax HD Movies
-http://nitro.ltd:25461/flight/flight12/22815
-#EXTINF:-1,US: 5 StarMax HD Movies
-http://nitro.ltd:25461/flight/flight12/22828
-#EXTINF:-1,US: Starz HD Movies
-http://nitro.ltd:25461/flight/flight12/22793
-#EXTINF:-1,US: Starz Black HD Movies
-http://nitro.ltd:25461/flight/flight12/22812
-#EXTINF:-1,US: Starz West HD 1080 Movies
-http://nitro.ltd:25461/flight/flight12/22790
-#EXTINF:-1,US: Starz West HD Movies
-http://nitro.ltd:25461/flight/flight12/22791
-#EXTINF:-1,US: Starz Cinema East HD Movies
-http://nitro.ltd:25461/flight/flight12/22811
-#EXTINF:-1,US: Starz Cinema HD Movies
-http://nitro.ltd:25461/flight/flight12/22810
-#EXTINF:-1,US: Starz Cinema West HD Movies
-http://nitro.ltd:25461/flight/flight12/22809
-#EXTINF:-1,US: Starz Comedy HD Movies
-http://nitro.ltd:25461/flight/flight12/22808
-#EXTINF:-1,US: Starz East HD Movies
-http://nitro.ltd:25461/flight/flight12/22807
-#EXTINF:-1,US: Starz Edge HD Movies
-http://nitro.ltd:25461/flight/flight12/22806
-#EXTINF:-1,US: Starz Edge West HD Movies
-http://nitro.ltd:25461/flight/flight12/22805
-#EXTINF:-1,US: Starz Encore 2 East HD Movies
-http://nitro.ltd:25461/flight/flight12/22804
-#EXTINF:-1,US: Starz Encore Action HD Movies
-http://nitro.ltd:25461/flight/flight12/22803
-#EXTINF:-1,US: Starz Encore Black HD Movies
-http://nitro.ltd:25461/flight/flight12/22802
-#EXTINF:-1,US: Starz Encore Classic HD Movies
-http://nitro.ltd:25461/flight/flight12/22801
-#EXTINF:-1,US: Starz Encore East HD Movies
-http://nitro.ltd:25461/flight/flight12/22800
-#EXTINF:-1,US: Starz Encore Family HD Movies
-http://nitro.ltd:25461/flight/flight12/22799
-#EXTINF:-1,US: Starz Encore HD Movies
-http://nitro.ltd:25461/flight/flight12/22798
-#EXTINF:-1,US: Starz Encore Suspense HD Movies
-http://nitro.ltd:25461/flight/flight12/22797
-#EXTINF:-1,US: Starz Encore West HD Movies
-http://nitro.ltd:25461/flight/flight12/22796
-#EXTINF:-1,US: Starz Encore Western HD Movies
-http://nitro.ltd:25461/flight/flight12/22795
-#EXTINF:-1,US: Starz Family HD Movies
-http://nitro.ltd:25461/flight/flight12/22794
-#EXTINF:-1,US: Starz Kids & Family HD Movies
-http://nitro.ltd:25461/flight/flight12/22792
-#EXTINF:-1,US: IndiePlex HD Movies
-http://nitro.ltd:25461/flight/flight12/22819
-#EXTINF:-1,US: MoviePlex HD Movies
-http://nitro.ltd:25461/flight/flight12/22816
-#EXTINF:-1,US: RetroPlex HD Movies
-http://nitro.ltd:25461/flight/flight12/22814
+#EXTM3U
+#EXTINF:-1,USA | 5 StarMax HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323541
+#EXTINF:-1,USA | A&E 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323402
+#EXTINF:-1,USA | ABC NY FHD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323401
+#EXTINF:-1,USA | ActionMax HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323542
+#EXTINF:-1,USA | AMC HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323400
+#EXTINF:-1,USA | AMERICAN HEROES AND ICONS 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323399
+#EXTINF:-1,USA | ANIMAL PLANET HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323398
+#EXTINF:-1,USA | ANTENNA TV 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323397
+#EXTINF:-1,USA | BBC America HD
+http://mxc.tvxweb.net:25461/jina/jina/323396
+#EXTINF:-1,USA | BEIN USA HD
+http://mxc.tvxweb.net:25461/jina/jina/323395
+#EXTINF:-1,USA | BET 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323394
+#EXTINF:-1,USA | BET HER
+http://mxc.tvxweb.net:25461/jina/jina/323393
+#EXTINF:-1,USA | Bloomberg HD
+http://mxc.tvxweb.net:25461/jina/jina/323392
+#EXTINF:-1,USA | Boomerang HD
+http://mxc.tvxweb.net:25461/jina/jina/323391
+#EXTINF:-1,USA | BRAVO HD
+http://mxc.tvxweb.net:25461/jina/jina/323390
+#EXTINF:-1,USA | BTN HD
+http://mxc.tvxweb.net:25461/jina/jina/323389
+#EXTINF:-1,USA | CARTOON NETWORK 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323388
+#EXTINF:-1,USA | CBS NY FHD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323387
+#EXTINF:-1,USA | CBS Sports Network HD
+http://mxc.tvxweb.net:25461/jina/jina/323386
+#EXTINF:-1,USA | Cinemax Action 2 HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323543
+#EXTINF:-1,USA | Cinemax Action East HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323544
+#EXTINF:-1,USA | CINEMAX ACTION MAX 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323385
+#EXTINF:-1,USA | Cinemax East HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323545
+#EXTINF:-1,USA | CINEMAX HD
+http://mxc.tvxweb.net:25461/jina/jina/323384
+#EXTINF:-1,USA | CINEMAX MORE MAX 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323383
+#EXTINF:-1,USA | CINEMAX OUTER MAX 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323382
+#EXTINF:-1,USA | Cinemax ThrillerMax HD
+http://mxc.tvxweb.net:25461/jina/jina/323381
+#EXTINF:-1,USA | Cinemax West HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323546
+#EXTINF:-1,USA | CNBC HD
+http://mxc.tvxweb.net:25461/jina/jina/323380
+#EXTINF:-1,USA | CNN 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323379
+#EXTINF:-1,USA | COMEDY CENTRAL
+http://mxc.tvxweb.net:25461/jina/jina/323378
+#EXTINF:-1,USA | Cooking Channel HD
+http://mxc.tvxweb.net:25461/jina/jina/323377
+#EXTINF:-1,USA | Crime & Investigation HD
+http://mxc.tvxweb.net:25461/jina/jina/323376
+#EXTINF:-1,USA | CW HD
+http://mxc.tvxweb.net:25461/jina/jina/323375
+#EXTINF:-1,USA | DESTINATION AMERICA
+http://mxc.tvxweb.net:25461/jina/jina/323374
+#EXTINF:-1,USA | DISCOVERY HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323373
+#EXTINF:-1,USA | DISCOVERY SCIENCE HD
+http://mxc.tvxweb.net:25461/jina/jina/323372
+#EXTINF:-1,USA | Disney HD
+http://mxc.tvxweb.net:25461/jina/jina/323371
+#EXTINF:-1,USA | Disney Jr. HD
+http://mxc.tvxweb.net:25461/jina/jina/323370
+#EXTINF:-1,USA | Disney XD HD
+http://mxc.tvxweb.net:25461/jina/jina/323369
+#EXTINF:-1,USA | DIY NETWORK HD
+http://mxc.tvxweb.net:25461/jina/jina/323368
+#EXTINF:-1,USA | E! HD
+http://mxc.tvxweb.net:25461/jina/jina/323367
+#EXTINF:-1,USA | ELEVEN SPORTS HD
+http://mxc.tvxweb.net:25461/jina/jina/323366
+#EXTINF:-1,USA | Epix
+http://mxc.tvxweb.net:25461/jina/jina/323365
+#EXTINF:-1,USA | Epix 2 HD
+http://mxc.tvxweb.net:25461/jina/jina/323364
+#EXTINF:-1,USA | ESPN 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323363
+#EXTINF:-1,USA | ESPN 2 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323362
+#EXTINF:-1,USA | ESPN NEWS 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323361
+#EXTINF:-1,USA | ESPN U 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323360
+#EXTINF:-1,USA | ESPNDeportes HD
+http://mxc.tvxweb.net:25461/jina/jina/323359
+#EXTINF:-1,USA | FIGHT NETWORK HD
+http://mxc.tvxweb.net:25461/jina/jina/323358
+#EXTINF:-1,USA | Food Network HD
+http://mxc.tvxweb.net:25461/jina/jina/323357
+#EXTINF:-1,USA | FOX 5 HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323356
+#EXTINF:-1,USA | FOX BUSINESS NETWORK HD
+http://mxc.tvxweb.net:25461/jina/jina/323355
+#EXTINF:-1,USA | FOX HD
+http://mxc.tvxweb.net:25461/jina/jina/323354
+#EXTINF:-1,USA | FOX NEWS
+http://mxc.tvxweb.net:25461/jina/jina/323353
+#EXTINF:-1,USA | FOX SOCCER PLUS HD
+http://mxc.tvxweb.net:25461/jina/jina/323352
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://mxc.tvxweb.net:25461/jina/jina/323351
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://mxc.tvxweb.net:25461/jina/jina/323350
+#EXTINF:-1,USA | Fox Sports Florida
+http://mxc.tvxweb.net:25461/jina/jina/323349
+#EXTINF:-1,USA | FOX Sports Sun
+http://mxc.tvxweb.net:25461/jina/jina/323348
+#EXTINF:-1,USA | FREEFORM HD
+http://mxc.tvxweb.net:25461/jina/jina/323347
+#EXTINF:-1,USA | FUSE
+http://mxc.tvxweb.net:25461/jina/jina/323346
+#EXTINF:-1,USA | FX HD*
+http://mxc.tvxweb.net:25461/jina/jina/323345
+#EXTINF:-1,USA | FXM
+http://mxc.tvxweb.net:25461/jina/jina/323344
+#EXTINF:-1,USA | FXX HD
+http://mxc.tvxweb.net:25461/jina/jina/323343
+#EXTINF:-1,USA | FYI 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323342
+#EXTINF:-1,USA | GALAVISION
+http://mxc.tvxweb.net:25461/jina/jina/323341
+#EXTINF:-1,USA | GAME SHOW NETWORK
+http://mxc.tvxweb.net:25461/jina/jina/323340
+#EXTINF:-1,USA | GOLF HD
+http://mxc.tvxweb.net:25461/jina/jina/323339
+#EXTINF:-1,USA | H2
+http://mxc.tvxweb.net:25461/jina/jina/323338
+#EXTINF:-1,USA | Hall Mark HD
+http://mxc.tvxweb.net:25461/jina/jina/323337
+#EXTINF:-1,USA | HALLMARK DRAMA
+http://mxc.tvxweb.net:25461/jina/jina/323336
+#EXTINF:-1,USA | Hallmark Movies&Mysteries HD
+http://mxc.tvxweb.net:25461/jina/jina/323335
+#EXTINF:-1,USA | HBO 2 HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323547
+#EXTINF:-1,USA | HBO 2 West HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323548
+#EXTINF:-1,USA | HBO Plus West HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323549
+#EXTINF:-1,USA | HBO Signature HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323550
+#EXTINF:-1,USA | HBOComedy HD
+http://mxc.tvxweb.net:25461/jina/jina/323334
+#EXTINF:-1,USA | HBOFamily
+http://mxc.tvxweb.net:25461/jina/jina/323333
+#EXTINF:-1,USA | HBOSignature HD
+http://mxc.tvxweb.net:25461/jina/jina/323332
+#EXTINF:-1,USA | HGTV FHD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323331
+#EXTINF:-1,USA | HISTORY HD
+http://mxc.tvxweb.net:25461/jina/jina/323330
+#EXTINF:-1,USA | ID HD
+http://mxc.tvxweb.net:25461/jina/jina/323329
+#EXTINF:-1,USA | IFC
+http://mxc.tvxweb.net:25461/jina/jina/323328
+#EXTINF:-1,USA | IndiePlex HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323551
+#EXTINF:-1,USA | INVESTIGATION DISCOVERY 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323327
+#EXTINF:-1,USA | ION TV 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323326
+#EXTINF:-1,USA | KCAL HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323591
+#EXTINF:-1,USA | KTLA HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323590
+#EXTINF:-1,USA | Lifetime HD
+http://mxc.tvxweb.net:25461/jina/jina/323325
+#EXTINF:-1,USA | LMN HD
+http://mxc.tvxweb.net:25461/jina/jina/323324
+#EXTINF:-1,USA | LONGHORN NETWORK
+http://mxc.tvxweb.net:25461/jina/jina/323323
+#EXTINF:-1,USA | MLB NETWORK
+http://mxc.tvxweb.net:25461/jina/jina/323322
+#EXTINF:-1,USA | MoreMax HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323552
+#EXTINF:-1,USA | MoreMax HD*
+http://mxc.tvxweb.net:25461/jina/jina/323321
+#EXTINF:-1,USA | MovieMax HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323553
+#EXTINF:-1,USA | MoviePlex HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323554
+#EXTINF:-1,USA | MSG
+http://mxc.tvxweb.net:25461/jina/jina/323320
+#EXTINF:-1,USA | MSNBC HD
+http://mxc.tvxweb.net:25461/jina/jina/323319
+#EXTINF:-1,USA | MTV 2 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323318
+#EXTINF:-1,USA | MTV HD
+http://mxc.tvxweb.net:25461/jina/jina/323317
+#EXTINF:-1,USA | MTVLive HD
+http://mxc.tvxweb.net:25461/jina/jina/323316
+#EXTINF:-1,USA | Nat Geo HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323589
+#EXTINF:-1,USA | NAT GEO USA 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323315
+#EXTINF:-1,USA | NAT GEO WILD HD US 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323314
+#EXTINF:-1,USA | NBA TV HD
+http://mxc.tvxweb.net:25461/jina/jina/323313
+#EXTINF:-1,USA | NBC 4 NY FHD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323312
+#EXTINF:-1,USA | NBC 5
+http://mxc.tvxweb.net:25461/jina/jina/323311
+#EXTINF:-1,USA | NBC GOLF
+http://mxc.tvxweb.net:25461/jina/jina/323310
+#EXTINF:-1,USA | NBC UNIVERSO
+http://mxc.tvxweb.net:25461/jina/jina/323309
+#EXTINF:-1,USA | NBCSN HD
+http://mxc.tvxweb.net:25461/jina/jina/323308
+#EXTINF:-1,USA | NESN
+http://mxc.tvxweb.net:25461/jina/jina/323307
+#EXTINF:-1,USA | NEWS 12 LONG ISLAND
+http://mxc.tvxweb.net:25461/jina/jina/323306
+#EXTINF:-1,USA | NEWS 12 NEW JERSEY
+http://mxc.tvxweb.net:25461/jina/jina/323305
+#EXTINF:-1,USA | NFL NETWORK HD
+http://mxc.tvxweb.net:25461/jina/jina/323304
+#EXTINF:-1,USA | NHL NETWORK 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323303
+#EXTINF:-1,USA | NICK HD*
+http://mxc.tvxweb.net:25461/jina/jina/323302
+#EXTINF:-1,USA | Nick Jr. HD
+http://mxc.tvxweb.net:25461/jina/jina/323301
+#EXTINF:-1,USA | NICK JR.TOO
+http://mxc.tvxweb.net:25461/jina/jina/323300
+#EXTINF:-1,USA | Nickelodeon HD
+http://mxc.tvxweb.net:25461/jina/jina/323588
+#EXTINF:-1,USA | Nicktoons
+http://mxc.tvxweb.net:25461/jina/jina/323299
+#EXTINF:-1,USA | OUTDOOR CHANNEL
+http://mxc.tvxweb.net:25461/jina/jina/323298
+#EXTINF:-1,USA | OuterMax HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323555
+#EXTINF:-1,USA | OWN HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323297
+#EXTINF:-1,USA | OXYGEN HD
+http://mxc.tvxweb.net:25461/jina/jina/323296
+#EXTINF:-1,USA | PAC-12 (ARIZONA)
+http://mxc.tvxweb.net:25461/jina/jina/323295
+#EXTINF:-1,USA | PAC-12 (BAY AREA)
+http://mxc.tvxweb.net:25461/jina/jina/323294
+#EXTINF:-1,USA | PAC-12 (LOS ANGELES)
+http://mxc.tvxweb.net:25461/jina/jina/323293
+#EXTINF:-1,USA | PAC-12 (MOUNTAIN)
+http://mxc.tvxweb.net:25461/jina/jina/323292
+#EXTINF:-1,USA | PAC-12 (NETWORK)
+http://mxc.tvxweb.net:25461/jina/jina/323291
+#EXTINF:-1,USA | PAC-12 (OREGON)
+http://mxc.tvxweb.net:25461/jina/jina/323290
+#EXTINF:-1,USA | PAC-12 (WASHINGTON)
+http://mxc.tvxweb.net:25461/jina/jina/323289
+#EXTINF:-1,USA | PARAMOUNT 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323288
+#EXTINF:-1,USA | PBS KIDS EAST 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323287
+#EXTINF:-1,USA | PBS WLIW 21 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323286
+#EXTINF:-1,USA | POP
+http://mxc.tvxweb.net:25461/jina/jina/323285
+#EXTINF:-1,USA | REELZ
+http://mxc.tvxweb.net:25461/jina/jina/323284
+#EXTINF:-1,USA | RetroPlex HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323556
+#EXTINF:-1,USA | RT NEWS
+http://mxc.tvxweb.net:25461/jina/jina/323283
+#EXTINF:-1,USA | SEC Network HD
+http://mxc.tvxweb.net:25461/jina/jina/323282
+#EXTINF:-1,USA | SHOWTIME EXTREME 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323281
+#EXTINF:-1,USA | SHOWTIME HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323280
+#EXTINF:-1,USA | Showtime Showcase HD
+http://mxc.tvxweb.net:25461/jina/jina/323279
+#EXTINF:-1,USA | Showtime West HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323557
+#EXTINF:-1,USA | Sports Mix
+http://mxc.tvxweb.net:25461/jina/jina/323582
+#EXTINF:-1,USA | SPORTSNET NY 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323278
+#EXTINF:-1,USA | Starz Black HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323558
+#EXTINF:-1,USA | Starz Cinema East HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323559
+#EXTINF:-1,USA | Starz Cinema HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323560
+#EXTINF:-1,USA | Starz Cinema West HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323561
+#EXTINF:-1,USA | Starz Comedy
+http://mxc.tvxweb.net:25461/jina/jina/323276
+#EXTINF:-1,USA | Starz Comedy HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323562
+#EXTINF:-1,USA | Starz East HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323563
+#EXTINF:-1,USA | Starz Edge HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323564
+#EXTINF:-1,USA | Starz Edge West HD 1080p
+http://mxc.tvxweb.net:25461/jina/jina/323565
+#EXTINF:-1,USA | STARZ ENCORE
+http://mxc.tvxweb.net:25461/jina/jina/323275
+#EXTINF:-1,USA | Starz Encore 2 East HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323566
+#EXTINF:-1,USA | Starz Encore Action 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323567
+#EXTINF:-1,USA | Starz Encore Black HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323568
+#EXTINF:-1,USA | Starz Encore Classic HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323569
+#EXTINF:-1,USA | Starz Encore East HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323570
+#EXTINF:-1,USA | Starz Encore Family HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323571
+#EXTINF:-1,USA | Starz Encore HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323572
+#EXTINF:-1,USA | Starz Encore Suspense HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323573
+#EXTINF:-1,USA | Starz Encore West HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323574
+#EXTINF:-1,USA | Starz Encore Western HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323575
+#EXTINF:-1,USA | STARZ ENCORE WESTERNS
+http://mxc.tvxweb.net:25461/jina/jina/323274
+#EXTINF:-1,USA | Starz Family HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323576
+#EXTINF:-1,USA | Starz HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323577
+#EXTINF:-1,USA | Starz Kids & Family HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323578
+#EXTINF:-1,USA | Starz kids family
+http://mxc.tvxweb.net:25461/jina/jina/323273
+#EXTINF:-1,USA | Starz West HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323579
+#EXTINF:-1,USA | StarzKids & Family HD
+http://mxc.tvxweb.net:25461/jina/jina/323272
+#EXTINF:-1,USA | Staz West HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323580
+#EXTINF:-1,USA | Sundance HD
+http://mxc.tvxweb.net:25461/jina/jina/323271
+#EXTINF:-1,USA | SYFY HD
+http://mxc.tvxweb.net:25461/jina/jina/323270
+#EXTINF:-1,USA | TBN Trinity Broadcasting Network 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323269
+#EXTINF:-1,USA | TBS
+http://mxc.tvxweb.net:25461/jina/jina/323268
+#EXTINF:-1,USA | TCM 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323267
+#EXTINF:-1,USA | TEEN NICK
+http://mxc.tvxweb.net:25461/jina/jina/323266
+#EXTINF:-1,USA | TELEMUNDO 47 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323265
+#EXTINF:-1,USA | TENNIS HD
+http://mxc.tvxweb.net:25461/jina/jina/323264
+#EXTINF:-1,USA | THE Travel Channel HD
+http://mxc.tvxweb.net:25461/jina/jina/323263
+#EXTINF:-1,USA | THE WEATHER CHANNEL HD
+http://mxc.tvxweb.net:25461/jina/jina/323262
+#EXTINF:-1,USA | TLC HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323261
+#EXTINF:-1,USA | TLC Pacific HD
+http://mxc.tvxweb.net:25461/jina/jina/323587
+#EXTINF:-1,USA | TNT HD
+http://mxc.tvxweb.net:25461/jina/jina/323260
+#EXTINF:-1,USA | TNT HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323586
+#EXTINF:-1,USA | TRU TV HD
+http://mxc.tvxweb.net:25461/jina/jina/323259
+#EXTINF:-1,USA | TV LAND 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323258
+#EXTINF:-1,USA | TV ONE 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323257
+#EXTINF:-1,USA | UNIMAS 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323256
+#EXTINF:-1,USA | UNIVERSAL HD
+http://mxc.tvxweb.net:25461/jina/jina/323255
+#EXTINF:-1,USA | UNIVISION 41 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323254
+#EXTINF:-1,USA | UNIVISION TDN
+http://mxc.tvxweb.net:25461/jina/jina/323253
+#EXTINF:-1,USA | USA NETWORK 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323252
+#EXTINF:-1,USA | VELOCITY HD
+http://mxc.tvxweb.net:25461/jina/jina/323251
+#EXTINF:-1,USA | VH1 HD
+http://mxc.tvxweb.net:25461/jina/jina/323250
+#EXTINF:-1,USA | Viceland HD
+http://mxc.tvxweb.net:25461/jina/jina/323249
+#EXTINF:-1,USA | WE TV 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323248
+#EXTINF:-1,USA | WGN AMERICA 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323247
+#EXTINF:-1,USA | WORLD FISHING NETWORK
+http://mxc.tvxweb.net:25461/jina/jina/323246
+#EXTINF:-1,USA | WPIX 11 NY 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323245
+#EXTINF:-1,USA | WWE NETWORK HD
+http://mxc.tvxweb.net:25461/jina/jina/323244
+#EXTINF:-1,USA | YES NETWORK 1080P
+http://mxc.tvxweb.net:25461/jina/jina/323243
+#EXTINF:-1,USA | Telemundo Chicago HD
+http://mxc.tvxweb.net:25461/jina/jina/330512
+#EXTINF:-1,USA | Telemundo Dallas HD
+http://mxc.tvxweb.net:25461/jina/jina/330513
+#EXTINF:-1,USA | Telemundo Fresno HD
+http://mxc.tvxweb.net:25461/jina/jina/330514
+#EXTINF:-1,USA | Telemundo HD
+http://mxc.tvxweb.net:25461/jina/jina/330515
+#EXTINF:-1,USA | Telemundo Las Vegas HD
+http://mxc.tvxweb.net:25461/jina/jina/330516
+#EXTINF:-1,USA | Telemundo Los Angeles HD
+http://mxc.tvxweb.net:25461/jina/jina/330517
+#EXTINF:-1,USA | Telemundo Miami HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/330518
+#EXTINF:-1,USA | Telemundo National East
+http://mxc.tvxweb.net:25461/jina/jina/330519
+#EXTINF:-1,USA | Telemundo National West
+http://mxc.tvxweb.net:25461/jina/jina/330520
+#EXTINF:-1,USA | Telemundo New York HD
+http://mxc.tvxweb.net:25461/jina/jina/330521
+#EXTINF:-1,USA | Telemundo Orlando
+http://mxc.tvxweb.net:25461/jina/jina/330522
+#EXTINF:-1,USA | Telemundo Philadelphia HD
+http://mxc.tvxweb.net:25461/jina/jina/330523
+#EXTINF:-1,USA | Telemundo Phoenix Arizona HD
+http://mxc.tvxweb.net:25461/jina/jina/330524
+#EXTINF:-1,USA | Telemundo Salt Lake City
+http://mxc.tvxweb.net:25461/jina/jina/330525
+#EXTINF:-1,USA | Telemundo San Antonio Texas HD
+http://mxc.tvxweb.net:25461/jina/jina/330526
+#EXTINF:-1,USA | Telemundo San Diego HD
+http://mxc.tvxweb.net:25461/jina/jina/330527
+#EXTINF:-1,USA | Telemundo San Francisco HD
+http://mxc.tvxweb.net:25461/jina/jina/330528
+#EXTINF:-1,USA | Telemundo San Fransisco HD
+http://mxc.tvxweb.net:25461/jina/jina/330529
+#EXTINF:-1,USA | Telemundo Tucson
+http://mxc.tvxweb.net:25461/jina/jina/330530
+#EXTINF:-1,USA | Telemundo Washington HD
+http://mxc.tvxweb.net:25461/jina/jina/330531
+#EXTINF:-1,USA | ABC 4 (Seattle)
+http://mxc.tvxweb.net:25461/jina/jina/331220
+#EXTINF:-1,USA | ABC Atlanta
+http://mxc.tvxweb.net:25461/jina/jina/331221
+#EXTINF:-1,USA | ABC Baltimore
+http://mxc.tvxweb.net:25461/jina/jina/331222
+#EXTINF:-1,USA | ABC Boston
+http://mxc.tvxweb.net:25461/jina/jina/331223
+#EXTINF:-1,USA | ABC Charlotte
+http://mxc.tvxweb.net:25461/jina/jina/331224
+#EXTINF:-1,USA | ABC Chicago
+http://mxc.tvxweb.net:25461/jina/jina/331225
+#EXTINF:-1,USA | ABC Cleveland
+http://mxc.tvxweb.net:25461/jina/jina/331226
+#EXTINF:-1,USA | ABC Connecticut
+http://mxc.tvxweb.net:25461/jina/jina/331227
+#EXTINF:-1,USA | ABC Dallas
+http://mxc.tvxweb.net:25461/jina/jina/331228
+#EXTINF:-1,USA | ABC Denver
+http://mxc.tvxweb.net:25461/jina/jina/331229
+#EXTINF:-1,USA | ABC Detroit
+http://mxc.tvxweb.net:25461/jina/jina/331230
+#EXTINF:-1,USA | ABC durham
+http://mxc.tvxweb.net:25461/jina/jina/331231
+#EXTINF:-1,USA | ABC Fresno
+http://mxc.tvxweb.net:25461/jina/jina/331232
+#EXTINF:-1,USA | ABC houston
+http://mxc.tvxweb.net:25461/jina/jina/331233
+#EXTINF:-1,USA | ABC Indianapolis
+http://mxc.tvxweb.net:25461/jina/jina/331234
+#EXTINF:-1,USA | ABC Kansas City
+http://mxc.tvxweb.net:25461/jina/jina/331235
+#EXTINF:-1,USA | ABC Los Angeles
+http://mxc.tvxweb.net:25461/jina/jina/331236
+#EXTINF:-1,USA | ABC Miami
+http://mxc.tvxweb.net:25461/jina/jina/331237
+#EXTINF:-1,USA | ABC Milwaukee
+http://mxc.tvxweb.net:25461/jina/jina/331238
+#EXTINF:-1,USA | ABC Nashville
+http://mxc.tvxweb.net:25461/jina/jina/331239
+#EXTINF:-1,USA | ABC New York
+http://mxc.tvxweb.net:25461/jina/jina/331240
+#EXTINF:-1,USA | ABC Orlando
+http://mxc.tvxweb.net:25461/jina/jina/331241
+#EXTINF:-1,USA | ABC Philadelphia
+http://mxc.tvxweb.net:25461/jina/jina/331242
+#EXTINF:-1,USA | ABC Phoenix
+http://mxc.tvxweb.net:25461/jina/jina/331243
+#EXTINF:-1,USA | ABC Pittsburgh
+http://mxc.tvxweb.net:25461/jina/jina/331244
+#EXTINF:-1,USA | ABC Sacramento
+http://mxc.tvxweb.net:25461/jina/jina/331245
+#EXTINF:-1,USA | ABC Saint Paul
+http://mxc.tvxweb.net:25461/jina/jina/331246
+#EXTINF:-1,USA | ABC Salt lake city
+http://mxc.tvxweb.net:25461/jina/jina/331247
+#EXTINF:-1,USA | ABC San Antonio
+http://mxc.tvxweb.net:25461/jina/jina/331248
+#EXTINF:-1,USA | ABC San Diego
+http://mxc.tvxweb.net:25461/jina/jina/331249
+#EXTINF:-1,USA | ABC San Francisco
+http://mxc.tvxweb.net:25461/jina/jina/331250
+#EXTINF:-1,USA | ABC Tampa Bay
+http://mxc.tvxweb.net:25461/jina/jina/331251
+#EXTINF:-1,USA | CBS Atlanta
+http://mxc.tvxweb.net:25461/jina/jina/331252
+#EXTINF:-1,USA | CBS Baltimore
+http://mxc.tvxweb.net:25461/jina/jina/331253
+#EXTINF:-1,USA | CBS Boston
+http://mxc.tvxweb.net:25461/jina/jina/331254
+#EXTINF:-1,USA | CBS Charlotte
+http://mxc.tvxweb.net:25461/jina/jina/331255
+#EXTINF:-1,USA | CBS Chicago
+http://mxc.tvxweb.net:25461/jina/jina/331256
+#EXTINF:-1,USA | CBS Cleveland
+http://mxc.tvxweb.net:25461/jina/jina/331257
+#EXTINF:-1,USA | CBS Columbus
+http://mxc.tvxweb.net:25461/jina/jina/331258
+#EXTINF:-1,USA | CBS Dallas
+http://mxc.tvxweb.net:25461/jina/jina/331259
+#EXTINF:-1,USA | CBS Denver
+http://mxc.tvxweb.net:25461/jina/jina/331260
+#EXTINF:-1,USA | CBS Detroit
+http://mxc.tvxweb.net:25461/jina/jina/331261
+#EXTINF:-1,USA | CBS Greensboro
+http://mxc.tvxweb.net:25461/jina/jina/331262
+#EXTINF:-1,USA | CBS Hartford
+http://mxc.tvxweb.net:25461/jina/jina/331263
+#EXTINF:-1,USA | CBS Houston
+http://mxc.tvxweb.net:25461/jina/jina/331264
+#EXTINF:-1,USA | CBS Jacksonville
+http://mxc.tvxweb.net:25461/jina/jina/331265
+#EXTINF:-1,USA | CBS Kansas City
+http://mxc.tvxweb.net:25461/jina/jina/331266
+#EXTINF:-1,USA | CBS Los Angeles
+http://mxc.tvxweb.net:25461/jina/jina/331267
+#EXTINF:-1,USA | CBS Miami
+http://mxc.tvxweb.net:25461/jina/jina/331268
+#EXTINF:-1,USA | CBS Milwaukee
+http://mxc.tvxweb.net:25461/jina/jina/331269
+#EXTINF:-1,USA | CBS Minneapolis
+http://mxc.tvxweb.net:25461/jina/jina/331270
+#EXTINF:-1,USA | CBS Nashville
+http://mxc.tvxweb.net:25461/jina/jina/331271
+#EXTINF:-1,USA | CBS New Orleans
+http://mxc.tvxweb.net:25461/jina/jina/331272
+#EXTINF:-1,USA | CBS New York
+http://mxc.tvxweb.net:25461/jina/jina/331273
+#EXTINF:-1,USA | CBS Orlando
+http://mxc.tvxweb.net:25461/jina/jina/331274
+#EXTINF:-1,USA | CBS Philadelphia
+http://mxc.tvxweb.net:25461/jina/jina/331275
+#EXTINF:-1,USA | CBS Phoenix
+http://mxc.tvxweb.net:25461/jina/jina/331276
+#EXTINF:-1,USA | CBS Pittsburgh
+http://mxc.tvxweb.net:25461/jina/jina/331277
+#EXTINF:-1,USA | CBS Sacramento
+http://mxc.tvxweb.net:25461/jina/jina/331278
+#EXTINF:-1,USA | CBS San Antonio
+http://mxc.tvxweb.net:25461/jina/jina/331279
+#EXTINF:-1,USA | CBS San Diego
+http://mxc.tvxweb.net:25461/jina/jina/331280
+#EXTINF:-1,USA | CBS San Francisco
+http://mxc.tvxweb.net:25461/jina/jina/331281
+#EXTINF:-1,USA | CBS Seattle
+http://mxc.tvxweb.net:25461/jina/jina/331282
+#EXTINF:-1,USA | CBS Sports Network
+http://mxc.tvxweb.net:25461/jina/jina/331283
+#EXTINF:-1,USA | CBS St Louis
+http://mxc.tvxweb.net:25461/jina/jina/331284
+#EXTINF:-1,USA | CBS Tampas
+http://mxc.tvxweb.net:25461/jina/jina/331285
+#EXTINF:-1,USA | CBS Washington
+http://mxc.tvxweb.net:25461/jina/jina/331286
+#EXTINF:-1,USA | FOX Atlanta
+http://mxc.tvxweb.net:25461/jina/jina/331287
+#EXTINF:-1,USA | FOX Austin
+http://mxc.tvxweb.net:25461/jina/jina/331288
+#EXTINF:-1,USA | FOX Belmont
+http://mxc.tvxweb.net:25461/jina/jina/331289
+#EXTINF:-1,USA | FOX Boston
+http://mxc.tvxweb.net:25461/jina/jina/331290
+#EXTINF:-1,USA | Fox Bussines Network
+http://mxc.tvxweb.net:25461/jina/jina/331291
+#EXTINF:-1,USA | FOX Chicago
+http://mxc.tvxweb.net:25461/jina/jina/331292
+#EXTINF:-1,USA | FOX Cleveland
+http://mxc.tvxweb.net:25461/jina/jina/331293
+#EXTINF:-1,USA | Fox Collage Sports Atlantic
+http://mxc.tvxweb.net:25461/jina/jina/331294
+#EXTINF:-1,USA | Fox Collage Sports Central
+http://mxc.tvxweb.net:25461/jina/jina/331295
+#EXTINF:-1,USA | Fox College Sports Pacific
+http://mxc.tvxweb.net:25461/jina/jina/331296
+#EXTINF:-1,USA | FOX Columbus
+http://mxc.tvxweb.net:25461/jina/jina/331297
+#EXTINF:-1,USA | FOX Dallas
+http://mxc.tvxweb.net:25461/jina/jina/331298
+#EXTINF:-1,USA | FOX Denver
+http://mxc.tvxweb.net:25461/jina/jina/331299
+#EXTINF:-1,USA | FOX Deportes
+http://mxc.tvxweb.net:25461/jina/jina/331300
+#EXTINF:-1,USA | FOX Detroit
+http://mxc.tvxweb.net:25461/jina/jina/331301
+#EXTINF:-1,USA | FOX Hartford
+http://mxc.tvxweb.net:25461/jina/jina/331302
+#EXTINF:-1,USA | FOX Houston
+http://mxc.tvxweb.net:25461/jina/jina/331303
+#EXTINF:-1,USA | FOX Indianapolis
+http://mxc.tvxweb.net:25461/jina/jina/331304
+#EXTINF:-1,USA | FOX Jacksonville
+http://mxc.tvxweb.net:25461/jina/jina/331305
+#EXTINF:-1,USA | FOX Kansas City
+http://mxc.tvxweb.net:25461/jina/jina/331306
+#EXTINF:-1,USA | FOX Los Angeles
+http://mxc.tvxweb.net:25461/jina/jina/331307
+#EXTINF:-1,USA | FOX Miami
+http://mxc.tvxweb.net:25461/jina/jina/331308
+#EXTINF:-1,USA | FOX Milwaukee
+http://mxc.tvxweb.net:25461/jina/jina/331309
+#EXTINF:-1,USA | FOX Minneapolis
+http://mxc.tvxweb.net:25461/jina/jina/331310
+#EXTINF:-1,USA | FOX New Orleans
+http://mxc.tvxweb.net:25461/jina/jina/331311
+#EXTINF:-1,USA | FOX New York
+http://mxc.tvxweb.net:25461/jina/jina/331312
+#EXTINF:-1,USA | Fox News Channel
+http://mxc.tvxweb.net:25461/jina/jina/331313
+#EXTINF:-1,USA | FOX Ocala
+http://mxc.tvxweb.net:25461/jina/jina/331314
+#EXTINF:-1,USA | FOX Orlando
+http://mxc.tvxweb.net:25461/jina/jina/331315
+#EXTINF:-1,USA | FOX Philadelphia
+http://mxc.tvxweb.net:25461/jina/jina/331316
+#EXTINF:-1,USA | FOX Phoenix
+http://mxc.tvxweb.net:25461/jina/jina/331317
+#EXTINF:-1,USA | FOX Sacramento
+http://mxc.tvxweb.net:25461/jina/jina/331318
+#EXTINF:-1,USA | FOX Salt Lake City
+http://mxc.tvxweb.net:25461/jina/jina/331319
+#EXTINF:-1,USA | FOX San Diego
+http://mxc.tvxweb.net:25461/jina/jina/331320
+#EXTINF:-1,USA | FOX San Francisco
+http://mxc.tvxweb.net:25461/jina/jina/331321
+#EXTINF:-1,USA | FOX Seattle
+http://mxc.tvxweb.net:25461/jina/jina/331322
+#EXTINF:-1,USA | Fox Sports 2
+http://mxc.tvxweb.net:25461/jina/jina/331323
+#EXTINF:-1,USA | FOX St Louis
+http://mxc.tvxweb.net:25461/jina/jina/331324
+#EXTINF:-1,USA | FOX Tampa
+http://mxc.tvxweb.net:25461/jina/jina/331325
+#EXTINF:-1,USA | FOX Washington
+http://mxc.tvxweb.net:25461/jina/jina/331326
+#EXTINF:-1,USA | NBC Atlanta
+http://mxc.tvxweb.net:25461/jina/jina/331327
+#EXTINF:-1,USA | NBC Baltimore
+http://mxc.tvxweb.net:25461/jina/jina/331328
+#EXTINF:-1,USA | NBC Boston
+http://mxc.tvxweb.net:25461/jina/jina/331329
+#EXTINF:-1,USA | NBC Buffalo
+http://mxc.tvxweb.net:25461/jina/jina/331330
+#EXTINF:-1,USA | NBC Charlotte
+http://mxc.tvxweb.net:25461/jina/jina/331331
+#EXTINF:-1,USA | NBC Chicago
+http://mxc.tvxweb.net:25461/jina/jina/331332
+#EXTINF:-1,USA | NBC Cincinnati
+http://mxc.tvxweb.net:25461/jina/jina/331333
+#EXTINF:-1,USA | NBC Cleveland
+http://mxc.tvxweb.net:25461/jina/jina/331334
+#EXTINF:-1,USA | NBC Dallas
+http://mxc.tvxweb.net:25461/jina/jina/331335
+#EXTINF:-1,USA | NBC Denver
+http://mxc.tvxweb.net:25461/jina/jina/331336
+#EXTINF:-1,USA | NBC Detroit
+http://mxc.tvxweb.net:25461/jina/jina/331337
+#EXTINF:-1,USA | NBC Green Bay
+http://mxc.tvxweb.net:25461/jina/jina/331338
+#EXTINF:-1,USA | NBC Hartford
+http://mxc.tvxweb.net:25461/jina/jina/331339
+#EXTINF:-1,USA | NBC Houston
+http://mxc.tvxweb.net:25461/jina/jina/331340
+#EXTINF:-1,USA | NBC Indianapolis
+http://mxc.tvxweb.net:25461/jina/jina/331341
+#EXTINF:-1,USA | NBC Jacksonville
+http://mxc.tvxweb.net:25461/jina/jina/331342
+#EXTINF:-1,USA | NBC Kansas City
+http://mxc.tvxweb.net:25461/jina/jina/331343
+#EXTINF:-1,USA | NBC Los Angeles
+http://mxc.tvxweb.net:25461/jina/jina/331344
+#EXTINF:-1,USA | NBC Miami
+http://mxc.tvxweb.net:25461/jina/jina/331345
+#EXTINF:-1,USA | NBC Milwaukee
+http://mxc.tvxweb.net:25461/jina/jina/331346
+#EXTINF:-1,USA | NBC Minneapolis
+http://mxc.tvxweb.net:25461/jina/jina/331347
+#EXTINF:-1,USA | NBC Nashville
+http://mxc.tvxweb.net:25461/jina/jina/331348
+#EXTINF:-1,USA | NBC New Orleans
+http://mxc.tvxweb.net:25461/jina/jina/331349
+#EXTINF:-1,USA | NBC New York
+http://mxc.tvxweb.net:25461/jina/jina/331350
+#EXTINF:-1,USA | NBC Philadelphia
+http://mxc.tvxweb.net:25461/jina/jina/331351
+#EXTINF:-1,USA | NBC Phoenix
+http://mxc.tvxweb.net:25461/jina/jina/331352
+#EXTINF:-1,USA | NBC Pittsburgh
+http://mxc.tvxweb.net:25461/jina/jina/331353
+#EXTINF:-1,USA | NBC Portland
+http://mxc.tvxweb.net:25461/jina/jina/331354
+#EXTINF:-1,USA | NBC Raleigh
+http://mxc.tvxweb.net:25461/jina/jina/331355
+#EXTINF:-1,USA | NBC Sacramento
+http://mxc.tvxweb.net:25461/jina/jina/331356
+#EXTINF:-1,USA | NBC Salt Lake City
+http://mxc.tvxweb.net:25461/jina/jina/331357
+#EXTINF:-1,USA | NBC San Diego
+http://mxc.tvxweb.net:25461/jina/jina/331358
+#EXTINF:-1,USA | NBC Seattle
+http://mxc.tvxweb.net:25461/jina/jina/331359
+#EXTINF:-1,USA | NBC St Louis
+http://mxc.tvxweb.net:25461/jina/jina/331360
+#EXTINF:-1,USA | NBC Telemundo
+http://mxc.tvxweb.net:25461/jina/jina/331361
+#EXTINF:-1,USA | NBC Washington
+http://mxc.tvxweb.net:25461/jina/jina/331362
+#EXTINF:-1,USA | MLB Extra Inning 01
+http://mxc.tvxweb.net:25461/jina/jina/323827
+#EXTINF:-1,USA | MLB Extra Inning 02
+http://mxc.tvxweb.net:25461/jina/jina/323828
+#EXTINF:-1,USA | MLB Extra Inning 03
+http://mxc.tvxweb.net:25461/jina/jina/323829
+#EXTINF:-1,USA | MLB Extra Inning 04
+http://mxc.tvxweb.net:25461/jina/jina/323830
+#EXTINF:-1,USA | MLB Extra Inning 05
+http://mxc.tvxweb.net:25461/jina/jina/323831
+#EXTINF:-1,USA | MLB Extra Inning 06
+http://mxc.tvxweb.net:25461/jina/jina/323832
+#EXTINF:-1,USA | MLB Extra Inning 07
+http://mxc.tvxweb.net:25461/jina/jina/323833
+#EXTINF:-1,USA | MLB Extra Inning 08
+http://mxc.tvxweb.net:25461/jina/jina/323834
+#EXTINF:-1,USA | MLB Extra Inning 09
+http://mxc.tvxweb.net:25461/jina/jina/323835
+#EXTINF:-1,USA | MLB Extra Inning 10
+http://mxc.tvxweb.net:25461/jina/jina/323836
+#EXTINF:-1,USA | MLB Extra Inning 11
+http://mxc.tvxweb.net:25461/jina/jina/323837
+#EXTINF:-1,USA | MLB Extra Inning 12
+http://mxc.tvxweb.net:25461/jina/jina/323838
+#EXTINF:-1,USA | MLB Extra Inning 13
+http://mxc.tvxweb.net:25461/jina/jina/323839
+#EXTINF:-1,USA | MLB Extra Inning 14
+http://mxc.tvxweb.net:25461/jina/jina/323840
+#EXTINF:-1,USA | MLB Extra Inning 15
+http://mxc.tvxweb.net:25461/jina/jina/323841
+#EXTINF:-1,USA | MLB Extra Inning 16
+http://mxc.tvxweb.net:25461/jina/jina/323842
+#EXTINF:-1,USA | NBA League Pass 01
+http://mxc.tvxweb.net:25461/jina/jina/323843
+#EXTINF:-1,USA | NBA League Pass 02
+http://mxc.tvxweb.net:25461/jina/jina/323844
+#EXTINF:-1,USA | NBA League Pass 03
+http://mxc.tvxweb.net:25461/jina/jina/323845
+#EXTINF:-1,USA | NBA League Pass 04
+http://mxc.tvxweb.net:25461/jina/jina/323846
+#EXTINF:-1,USA | NBA League Pass 05
+http://mxc.tvxweb.net:25461/jina/jina/323847
+#EXTINF:-1,USA | NBA League Pass 06
+http://mxc.tvxweb.net:25461/jina/jina/323848
+#EXTINF:-1,USA | NBA League Pass 07
+http://mxc.tvxweb.net:25461/jina/jina/323849
+#EXTINF:-1,USA | NBA League Pass 08
+http://mxc.tvxweb.net:25461/jina/jina/323850
+#EXTINF:-1,USA | NBA League Pass 09
+http://mxc.tvxweb.net:25461/jina/jina/323851
+#EXTINF:-1,USA | NBA League Pass 10
+http://mxc.tvxweb.net:25461/jina/jina/323852
+#EXTINF:-1,USA | NBA League Pass 11
+http://mxc.tvxweb.net:25461/jina/jina/323853
+#EXTINF:-1,USA | NBA League Pass 12
+http://mxc.tvxweb.net:25461/jina/jina/323854
+#EXTINF:-1,USA | NFL League Pass 01
+http://mxc.tvxweb.net:25461/jina/jina/323855
+#EXTINF:-1,USA | NFL League Pass 02
+http://mxc.tvxweb.net:25461/jina/jina/323856
+#EXTINF:-1,USA | NFL League Pass 03
+http://mxc.tvxweb.net:25461/jina/jina/323857
+#EXTINF:-1,USA | NFL League Pass 04
+http://mxc.tvxweb.net:25461/jina/jina/323858
+#EXTINF:-1,USA | NFL League Pass 05
+http://mxc.tvxweb.net:25461/jina/jina/323859
+#EXTINF:-1,USA | NFL League Pass 06
+http://mxc.tvxweb.net:25461/jina/jina/323860
+#EXTINF:-1,USA | NFL League Pass 07
+http://mxc.tvxweb.net:25461/jina/jina/323861
+#EXTINF:-1,USA | NFL League Pass 08
+http://mxc.tvxweb.net:25461/jina/jina/323862
+#EXTINF:-1,USA | NFL League Pass 09
+http://mxc.tvxweb.net:25461/jina/jina/323863
+#EXTINF:-1,USA | NFL League Pass 10
+http://mxc.tvxweb.net:25461/jina/jina/323864
+#EXTINF:-1,USA | NFL League Pass 11
+http://mxc.tvxweb.net:25461/jina/jina/323865
+#EXTINF:-1,USA | NFL League Pass 12
+http://mxc.tvxweb.net:25461/jina/jina/323866
+#EXTINF:-1,USA | NFL League Pass 13
+http://mxc.tvxweb.net:25461/jina/jina/323867
+#EXTINF:-1,USA | NFL League Pass 14
+http://mxc.tvxweb.net:25461/jina/jina/323868
+#EXTINF:-1,USA | NFL League Pass 15
+http://mxc.tvxweb.net:25461/jina/jina/323869
+#EXTINF:-1,USA | NHL League Pass 01
+http://mxc.tvxweb.net:25461/jina/jina/323870
+#EXTINF:-1,USA | NHL League Pass 02
+http://mxc.tvxweb.net:25461/jina/jina/323871
+#EXTINF:-1,USA | NHL League Pass 03
+http://mxc.tvxweb.net:25461/jina/jina/323872
+#EXTINF:-1,USA | NHL League Pass 04
+http://mxc.tvxweb.net:25461/jina/jina/323873
+#EXTINF:-1,USA | NHL League Pass 05
+http://mxc.tvxweb.net:25461/jina/jina/323874
+#EXTINF:-1,USA | NHL League Pass 06
+http://mxc.tvxweb.net:25461/jina/jina/323875
+#EXTINF:-1,USA | NHL League Pass 07
+http://mxc.tvxweb.net:25461/jina/jina/323876
+#EXTINF:-1,USA | NHL League Pass 08
+http://mxc.tvxweb.net:25461/jina/jina/323877
+#EXTINF:-1,USA | NHL League Pass 09
+http://mxc.tvxweb.net:25461/jina/jina/323878
+#EXTINF:-1,USA | NHL League Pass 10
+http://mxc.tvxweb.net:25461/jina/jina/323879
+#EXTINF:-1,USA | NHL League Pass 11
+http://mxc.tvxweb.net:25461/jina/jina/323880
+#EXTINF:-1,USA | NHL League Pass 12
+http://mxc.tvxweb.net:25461/jina/jina/323881
+#EXTINF:-1,USA | NHL League Pass 13
+http://mxc.tvxweb.net:25461/jina/jina/323882
+#EXTINF:-1,USA | NHL League Pass 14
+http://mxc.tvxweb.net:25461/jina/jina/323883
+#EXTINF:-1,USA | NHL League Pass 15
+http://mxc.tvxweb.net:25461/jina/jina/323884
+#EXTINF:-1,USA | Telemundo Boston HD
+http://mxc.tvxweb.net:25461/jina/jina/330511
+#EXTINF:-1,USA | ABC 2 Portland
+http://mxc.tvxweb.net:25461/jina/jina/331219
+#EXTINF:-1,USA | USA Telemundo Miami
+http://mxc.tvxweb.net:25461/jina/jina/329651
+#EXTINF:-1,USA | NFL Redzone HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/337818
+#EXTINF:-1,USA | NBA Los Angeles Lakers
+http://mxc.tvxweb.net:25461/jina/jina/337819
+#EXTINF:-1,USA | NBA Philly 76ers HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/338290
+#EXTINF:-1,USA | NBA Charlotte Hornets HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/338291
+#EXTINF:-1,USA | NBA Golden State Warriors HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/338292
+#EXTINF:-1,USA | NBA Indiana Pacers HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/338293
+#EXTINF:-1,USA | NBA New York Knicks HD 1080P 
+http://mxc.tvxweb.net:25461/jina/jina/338294
+#EXTINF:-1,USA | NBA Sacramento Kings HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/338295
+#EXTINF:-1,USA | Music 24/7 HD
+http://mxc.tvxweb.net:25461/jina/jina/338319
+#EXTINF:-1,USA | UFC Network HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/338320
+#EXTINF:-1,USA | NBA Piston Detroits HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/339560
+#EXTINF:-1,USA | NBA Washington Wizards HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/339561
+#EXTINF:-1,USA | NBA Dallas Mavericks HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/339562
+#EXTINF:-1,USA | NBA Miami Heats HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/339563
+#EXTINF:-1,USA | NBA Houston Rockets HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/339564
+#EXTINF:-1,USA | NBA Denver Nuggets HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/339565
+#EXTINF:-1,USA | NBA Los Angeles Clippers HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/339566
+#EXTINF:-1,USA | Phoenix Suns HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/340176
+#EXTINF:-1,USA | Brooklyn Nets HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/340177
+#EXTINF:-1,USA | Boston Celtics HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/340178
+#EXTINF:-1,USA | Chicago Bulls HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/340179
+#EXTINF:-1,USA | Oklahoma City Thunder HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/340180
+#EXTINF:-1,USA | Minesota Timberwolves HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/340181
+#EXTINF:-1,USA | NBA Utah Jazz HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/340182
+#EXTINF:-1,USA | NBA Portland Trail Blazers HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/340183
+#EXTINF:-1,USA | NBA Toronto Raptors HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/341056
+#EXTINF:-1,USA | NBA New Orleans Pelicans HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/341057
+#EXTINF:-1,USA | NBA Cleveland Cavaliers HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/341717
+#EXTINF:-1,USA | NBA San Antonio Spurs HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/341718
+#EXTINF:-1,USA | TVG HD
+http://mxc.tvxweb.net:25461/jina/jina/341719
+#EXTINF:-1,USA | Dscovery Life HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/341720
+#EXTINF:-1,USA | NFL Buffalo Bills HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/342354
+#EXTINF:-1,USA | NFL Cleveland Browns HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/342355
+#EXTINF:-1,USA | NFL Houston Texans HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/342356
+#EXTINF:-1,USA | NFL Miami Dolphins HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/342357
+#EXTINF:-1,USA | NFL Tampa Bay Buccaneers HD
+http://mxc.tvxweb.net:25461/jina/jina/342358
+#EXTINF:-1,USA | NFL Atlanta Falcons HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/342359
+#EXTINF:-1,USA | NFL Washington Redskins HD
+http://mxc.tvxweb.net:25461/jina/jina/342360
+#EXTINF:-1,USA | NFL Detroit Lions HD
+http://mxc.tvxweb.net:25461/jina/jina/342361
+#EXTINF:-1,USA | NFL San Francisco 49ers HD
+http://mxc.tvxweb.net:25461/jina/jina/342362
+#EXTINF:-1,USA | NFL Los Angeles Chargers HD
+http://mxc.tvxweb.net:25461/jina/jina/342363
+#EXTINF:-1,USA | NFL Pittsburgh Steelers HD
+http://mxc.tvxweb.net:25461/jina/jina/342364
+#EXTINF:-1,USA | NFL New England Patriots HD
+http://mxc.tvxweb.net:25461/jina/jina/342365
+#EXTINF:-1,USA | NFL Oakland Raiders HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/342366
+#EXTINF:-1,USA | NFL Los Angeles Rams HD
+http://mxc.tvxweb.net:25461/jina/jina/342367
+#EXTINF:-1,USA | NBA Atlanta Hawks HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/342368
+#EXTINF:-1,USA | Cinema 01 PPV
+http://mxc.tvxweb.net:25461/jina/jina/327381
+#EXTINF:-1,USA | Cinema 02 PPV
+http://mxc.tvxweb.net:25461/jina/jina/327382
+#EXTINF:-1,USA | Cinema 03 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327383
+#EXTINF:-1,USA | Cinema 04 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327384
+#EXTINF:-1,USA | Cinema 05 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327385
+#EXTINF:-1,USA | Cinema 06 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327386
+#EXTINF:-1,USA | Cinema 07 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327387
+#EXTINF:-1,USA | Cinema 08 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327388
+#EXTINF:-1,USA | Cinema 09 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327389
+#EXTINF:-1,USA | Cinema 10 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327390
+#EXTINF:-1,USA | Cinema 11 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327391
+#EXTINF:-1,USA | Cinema 12 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327392
+#EXTINF:-1,USA | Cinema 13 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327393
+#EXTINF:-1,USA | Cinema 14 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327394
+#EXTINF:-1,USA | Cinema 15 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327395
+#EXTINF:-1,USA | Cinema 16 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327396
+#EXTINF:-1,USA | Cinema 17 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327397
+#EXTINF:-1,USA | Cinema 18 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327398
+#EXTINF:-1,USA | Cinema 19 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327399
+#EXTINF:-1,USA | Cinema 20 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327400
+#EXTINF:-1,USA | Cinema 21 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327401
+#EXTINF:-1,USA | Cinema 22 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327402
+#EXTINF:-1,USA | Cinema 23 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327403
+#EXTINF:-1,USA | Cinema 24 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327404
+#EXTINF:-1,USA | Cinema 25 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327405
+#EXTINF:-1,USA | Cinema 26 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327406
+#EXTINF:-1,USA | Cinema 27 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327407
+#EXTINF:-1,USA | Cinema 28 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327408
+#EXTINF:-1,USA | Cinema 29 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327409
+#EXTINF:-1,USA | Cinema 30 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327410
+#EXTINF:-1,USA | Cinema 31 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327411
+#EXTINF:-1,USA | Cinema 32 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327412
+#EXTINF:-1,USA | Cinema 33 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327413
+#EXTINF:-1,USA | Cinema 34 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327414
+#EXTINF:-1,USA | Cinema 35 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327415
+#EXTINF:-1,USA | Cinema 36 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327416
+#EXTINF:-1,USA | Cinema 37 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327417
+#EXTINF:-1,USA | Cinema 38 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327418
+#EXTINF:-1,USA | Cinema 39 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327419
+#EXTINF:-1,USA | Cinema 40 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327420
+#EXTINF:-1,USA | Cinema 41 PPV-
+http://mxc.tvxweb.net:25461/jina/jina/327421
+#EXTINF:-1,USA | Bein Sports En Espanol
+http://mxc.tvxweb.net:25461/jina/jina/329736
+#EXTINF:-1,USA | ActionMax HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330183
+#EXTINF:-1,USA | Cinemax Action 2 HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330184
+#EXTINF:-1,USA | Cinemax Action East HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330185
+#EXTINF:-1,USA | Cinemax East HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330186
+#EXTINF:-1,USA | Cinemax West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330187
+#EXTINF:-1,USA | HBO 2 West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330188
+#EXTINF:-1,USA | HBO Plus West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330189
+#EXTINF:-1,USA | HBO Signature HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330190
+#EXTINF:-1,USA | IndiePlex HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330191
+#EXTINF:-1,USA | MoreMax HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330192
+#EXTINF:-1,USA | MovieMax HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330193
+#EXTINF:-1,USA | MoviePlex HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330194
+#EXTINF:-1,USA | OuterMax HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330195
+#EXTINF:-1,USA | RetroPlex HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330196
+#EXTINF:-1,USA | Showtime West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330197
+#EXTINF:-1,USA | Starz Black HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330198
+#EXTINF:-1,USA | Starz Cinema East HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330199
+#EXTINF:-1,USA | Starz Cinema HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330200
+#EXTINF:-1,USA | Starz Cinema West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330201
+#EXTINF:-1,USA | Starz Comedy HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330202
+#EXTINF:-1,USA | Starz Comedy HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330203
+#EXTINF:-1,USA | Starz East HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330204
+#EXTINF:-1,USA | Starz Edge HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330205
+#EXTINF:-1,USA | Starz Edge West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330206
+#EXTINF:-1,USA | Starz Encore 2 East HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330207
+#EXTINF:-1,USA | Starz Encore Black HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330208
+#EXTINF:-1,USA | Starz Encore Classic HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330209
+#EXTINF:-1,USA | Starz Encore East HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330210
+#EXTINF:-1,USA | Starz Encore Family HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330211
+#EXTINF:-1,USA | Starz Encore HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330212
+#EXTINF:-1,USA | Starz Encore HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330213
+#EXTINF:-1,USA | Starz Encore Suspense HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330214
+#EXTINF:-1,USA | Starz Encore West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330215
+#EXTINF:-1,USA | Starz Encore Western HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330216
+#EXTINF:-1,USA | Starz Family HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330217
+#EXTINF:-1,USA | Starz HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330218
+#EXTINF:-1,USA | Starz Kids & Family HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330219
+#EXTINF:-1,USA | Starz West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330220
+#EXTINF:-1,USA | Staz West HD 1080P#
+http://mxc.tvxweb.net:25461/jina/jina/330221
+#EXTINF:-1,USA | Cozi
+http://mxc.tvxweb.net:25461/jina/jina/337815
+#EXTINF:-1,USA | NBA Orlando Magic HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/343186
+#EXTINF:-1,USA | OAN HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/344216
+#EXTINF:-1,USA | New York Jets HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/344266
+#EXTINF:-1,USA | NBA Milwaukee Bucks
+http://mxc.tvxweb.net:25461/jina/jina/344552
+#EXTINF:-1,USA | NFL Kansas City Chiefs HD
+http://mxc.tvxweb.net:25461/jina/jina/344554
+#EXTINF:-1,USA | NFL Carolina Panthers HD
+http://mxc.tvxweb.net:25461/jina/jina/344555
+#EXTINF:-1,USA | NFL Chicago Bears HD
+http://mxc.tvxweb.net:25461/jina/jina/344556
+#EXTINF:-1,USA | Stadium 1 HD
+http://mxc.tvxweb.net:25461/jina/jina/344630
+#EXTINF:-1,USA | Stadium 2 HD
+http://mxc.tvxweb.net:25461/jina/jina/344631
+#EXTINF:-1,USA | Stadium 3 HD
+http://mxc.tvxweb.net:25461/jina/jina/344632
+#EXTINF:-1,USA | Stadium 4 HD
+http://mxc.tvxweb.net:25461/jina/jina/344633
+#EXTINF:-1,USA | NFL New Orleans Saint HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/345571
+#EXTINF:-1,USA | NFL Dallas Cowboys HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/345572
+#EXTINF:-1,USA | Arizona Cardinals HD 1080P
+http://mxc.tvxweb.net:25461/jina/jina/345573
