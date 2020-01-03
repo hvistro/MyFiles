@@ -843,7 +843,5 @@ http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Singapore/Malaysia",Waku Waku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-nX2b3jumY04/Whrg5s80mGI/AAAAAAAAAGw/vLn4F3h2X5QD3wbGmbLQCAMz71_pteTkQCLcBGAs/s1600/nba-tv.jpg" group-title="USA",NBA TV
-http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
-
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="nfl.png" group-title="SPORTS", NBA TV
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
